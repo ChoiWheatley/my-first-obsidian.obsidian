@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Mutable reference is a non Copy type",
+      "path": "Mutable reference is a non Copy type.md"
+    },
+    {
+      "basename": "Rust 🦀",
+      "path": "Rust 🦀.md"
+    },
+    {
+      "basename": "Indexing is opaque",
+      "path": "Indexing is opaque.md"
+    },
+    {
+      "basename": "Returning a Reference to the Stack",
+      "path": "Returning a Reference to the Stack.md"
+    },
+    {
+      "basename": "static lifetime",
+      "path": "static lifetime.md"
+    },
+    {
+      "basename": "0080 Scraps 📚",
+      "path": "0000 Index 🔗/0080 Scraps 📚.md"
+    },
+    {
       "basename": "소재가 떨어졌을 때를 대비하기 위한 질문목록",
       "path": "소재가 떨어졌을 때를 대비하기 위한 질문목록.md"
+    },
+    {
+      "basename": "Permission Handling",
+      "path": "Permission Handling.md"
+    },
+    {
+      "basename": "2023-03-08",
+      "path": "Daily Notes/2023-03-08.md"
+    },
+    {
+      "basename": "0031 감정저널 Emotions 🤔",
+      "path": "0000 Index 🔗/0031 감정저널 Emotions 🤔.md"
     },
     {
       "basename": "0005 GoogleKeep Archieve 💾",
@@ -15,10 +51,6 @@
     {
       "basename": "튀니지 튀니스 여행기",
       "path": "튀니지 튀니스 여행기.md"
-    },
-    {
-      "basename": "0080 Scraps 📚",
-      "path": "0000 Index 🔗/0080 Scraps 📚.md"
     },
     {
       "basename": "감자튀김의 새로운 발견",
@@ -35,10 +67,6 @@
     {
       "basename": "이터널 선샤인",
       "path": "이터널 선샤인.md"
-    },
-    {
-      "basename": "2023-03-08",
-      "path": "Daily Notes/2023-03-08.md"
     },
     {
       "basename": "아마라",
@@ -171,34 +199,6 @@
     {
       "basename": "Daily Notes",
       "path": "Daily Notes/Daily Notes.md"
-    },
-    {
-      "basename": "2023-02-13",
-      "path": "Daily Notes/2023-02-13.md"
-    },
-    {
-      "basename": "0000 Index 🔗",
-      "path": "0000 Index 🔗/0000 Index 🔗.md"
-    },
-    {
-      "basename": "퀵정렬",
-      "path": "퀵정렬.md"
-    },
-    {
-      "basename": "염라대왕의 이름정렬",
-      "path": "염라대왕의 이름정렬.md"
-    },
-    {
-      "basename": "김남석",
-      "path": "김남석.md"
-    },
-    {
-      "basename": "TP-dailynotes",
-      "path": "Resources/Templates/TP-dailynotes.md"
-    },
-    {
-      "basename": "0070 Obsidian 💎",
-      "path": "0000 Index 🔗/0070 Obsidian 💎.md"
     }
   ],
   "omittedPaths": [],
