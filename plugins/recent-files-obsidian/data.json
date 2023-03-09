@@ -1,12 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "Mutable reference is a non Copy type",
-      "path": "Mutable reference is a non Copy type.md"
+      "basename": "0080 Scraps 📚",
+      "path": "0000 Index 🔗/0080 Scraps 📚.md"
+    },
+    {
+      "basename": "The camel has two humps",
+      "path": "The camel has two humps.md"
+    },
+    {
+      "basename": "0100 English",
+      "path": "0000 Index 🔗/0100 English.md"
     },
     {
       "basename": "Rust 🦀",
       "path": "Rust 🦀.md"
+    },
+    {
+      "basename": "The camel has two humps",
+      "path": "The camel has two humps.pdf"
+    },
+    {
+      "basename": "invidious",
+      "path": "invidious.md"
+    },
+    {
+      "basename": "0012 Career",
+      "path": "0000 Index 🔗/0012 Career.md"
+    },
+    {
+      "basename": "impasse",
+      "path": "impasse.md"
+    },
+    {
+      "basename": "admonition",
+      "path": "admonition.md"
+    },
+    {
+      "basename": "bereft",
+      "path": "bereft.md"
+    },
+    {
+      "basename": "opine",
+      "path": "opine.md"
+    },
+    {
+      "basename": "why were we making such a fuss",
+      "path": "why were we making such a fuss.md"
+    },
+    {
+      "basename": "0000 Index 🔗",
+      "path": "0000 Index 🔗/0000 Index 🔗.md"
+    },
+    {
+      "basename": "2023-03-09",
+      "path": "Daily Notes/2023-03-09.md"
+    },
+    {
+      "basename": "Mutable reference is a non Copy type",
+      "path": "Mutable reference is a non Copy type.md"
+    },
+    {
+      "basename": "2023-03-02",
+      "path": "Daily Notes/2023-03-02.md"
     },
     {
       "basename": "Indexing is opaque",
@@ -19,10 +75,6 @@
     {
       "basename": "static lifetime",
       "path": "static lifetime.md"
-    },
-    {
-      "basename": "0080 Scraps 📚",
-      "path": "0000 Index 🔗/0080 Scraps 📚.md"
     },
     {
       "basename": "소재가 떨어졌을 때를 대비하기 위한 질문목록",
@@ -93,10 +145,6 @@
       "path": "트라이.md"
     },
     {
-      "basename": "2023-03-02",
-      "path": "Daily Notes/2023-03-02.md"
-    },
-    {
       "basename": "C++",
       "path": "C++.md"
     },
@@ -151,54 +199,6 @@
     {
       "basename": "은기의 아주 큰 그림",
       "path": "은기의 아주 큰 그림.md"
-    },
-    {
-      "basename": "문자열 교집합",
-      "path": "문자열 교집합.md"
-    },
-    {
-      "basename": "Segment Tree",
-      "path": "Segment Tree.md"
-    },
-    {
-      "basename": "영어 공부",
-      "path": "영어 공부.md"
-    },
-    {
-      "basename": "플랙",
-      "path": "플랙.md"
-    },
-    {
-      "basename": "2023-03-01",
-      "path": "2023-03-01.md"
-    },
-    {
-      "basename": "2023-03-01",
-      "path": "Daily Notes/2023-03-01.md"
-    },
-    {
-      "basename": "신청은 어떻게 하는지",
-      "path": "신청은 어떻게 하는지.md"
-    },
-    {
-      "basename": "뇌 가소성",
-      "path": "뇌 가소성.md"
-    },
-    {
-      "basename": "2023-02-28",
-      "path": "Daily Notes/2023-02-28.md"
-    },
-    {
-      "basename": "divide and conquer",
-      "path": "divide and conquer.md"
-    },
-    {
-      "basename": "병합정렬",
-      "path": "병합정렬.md"
-    },
-    {
-      "basename": "Daily Notes",
-      "path": "Daily Notes/Daily Notes.md"
     }
   ],
   "omittedPaths": [],
