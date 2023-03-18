@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4621278506f0f6eb",
+            "id": "00d590b7ed39cd6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0000 Index 🔗/0080 Scraps 📚.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12088b95a768bea3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust 🦀.md",
+                "file": "0000 Index 🔗/0011 Algorithms ♾️.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -124,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0000 Index 🔗/0080 Scraps 📚.md",
+                "file": "0000 Index 🔗/0011 Algorithms ♾️.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0000 Index 🔗/0080 Scraps 📚.md",
+                "file": "0000 Index 🔗/0011 Algorithms ♾️.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0000 Index 🔗/0080 Scraps 📚.md"
+                "file": "0000 Index 🔗/0011 Algorithms ♾️.md"
               }
             }
           },
@@ -184,7 +171,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "f0169b5a9c097f51",
@@ -197,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0000 Index 🔗/0080 Scraps 📚.md",
+                "file": "0000 Index 🔗/0011 Algorithms ♾️.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -220,7 +208,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8070860237934421,
+                  "scale": 0.8070860237934422,
                   "close": true
                 }
               }
@@ -247,46 +235,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6bdef0f7e326b2c7",
+  "active": "00d590b7ed39cd6e",
   "lastOpenFiles": [
-    "The camel has two humps.md",
+    "러스트로 game of life 구현하기.md",
+    "쿠팡 물류센터.md",
+    "Untitled 1.md",
+    "Pasted image 20230316230116.png",
+    "wasm with rust.md",
+    "wasm-pack 사용하기.md",
     "0000 Index 🔗/0080 Scraps 📚.md",
-    "0000 Index 🔗/0100 English.md",
     "Rust 🦀.md",
-    "The camel has two humps.pdf",
-    "Drawing 2023-03-09 21.43.47.excalidraw.md",
-    "invidious.md",
+    "wasm-pack.md",
+    "11번가 검색데이터 및 추천 개발 전환형 인턴.md",
     "0000 Index 🔗/0012 Career.md",
-    "impasse.md",
-    "admonition.md",
-    "bereft.md",
-    "opine.md",
-    "why were we making such a fuss.md",
+    "예비군.md",
+    "Daily Notes/2023-03-16.md",
+    "boj.kr/9253.md",
+    "공군 전역자를 위한 예비군 훈련 정리 2022.md",
+    "2023년 동원훈련 일정 확인하기.md",
     "0000 Index 🔗/0000 Index 🔗.md",
-    "Daily Notes/2023-03-09.md",
-    "Mutable reference is a non Copy type.md",
-    "Daily Notes/2023-03-02.md",
-    "Indexing is opaque.md",
+    "Daily Notes/2023-02-09.md",
+    "Resources/Templates/TP-dailynotes.md",
+    "Utility.md",
+    "online c++ compiler.md",
+    "prime numbers.md",
+    "snake game with rust.md",
+    "컬리 채용 -  물류 프론트엔드 체험형 인턴 모집 3개월.md",
+    "Daily Notes/2023-03-15.md",
+    "삼성 SDS 공개채용.md",
+    "buczhhy2.bmp",
+    "22kgm33t.bmp",
+    "55sfd2y9.bmp",
+    "txcq3hnm.bmp",
+    "남부발전 체험형 인턴.md",
+    "Pasted image 20230313220930.png",
+    "The camel has two humps.pdf",
     "Pasted image 20230308185713.png",
     "Pasted image 20230308185649.png",
-    "Returning a Reference to the Stack.md",
-    "static lifetime.md",
-    "소재가 떨어졌을 때를 대비하기 위한 질문목록.md",
-    "Permission Handling.md",
-    "Daily Notes/2023-03-08.md",
-    "0000 Index 🔗/0031 감정저널 Emotions 🤔.md",
-    "0000 Index 🔗/0005 GoogleKeep Archieve 💾.md",
-    "firefox css uwp style.md",
-    "튀니지 튀니스 여행기.md",
     "Resources/1zb785qo.bmp",
     "머리 - canvas view.canvas",
     "5lnee327.bmp",
-    "0ypq5cnm.bmp",
-    "o2jczejw.bmp",
-    "Resources/wutm7vbx.bmp",
-    "Resources/hy5vh6yw.bmp",
-    "Resources/ol30cwte.bmp",
-    "Resources/hw9blxb5.bmp",
     "boj.kr"
   ]
 }
