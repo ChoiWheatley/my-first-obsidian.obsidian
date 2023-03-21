@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0000 Index 🔗/0011 Algorithms ♾️.md",
+                "file": "Daily Notes/2023-03-21.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6439a801839f27f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Templates/TP-pending.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "251fe57f5d15cf07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0000 Index 🔗/0011 Algorithms ♾️.md",
+                "file": "Resources/Templates/TP-pending.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -128,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0000 Index 🔗/0011 Algorithms ♾️.md",
+                "file": "Resources/Templates/TP-pending.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0000 Index 🔗/0011 Algorithms ♾️.md"
+                "file": "Resources/Templates/TP-pending.md"
               }
             }
           },
@@ -185,7 +212,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0000 Index 🔗/0011 Algorithms ♾️.md",
+                "file": "Resources/Templates/TP-pending.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -235,8 +262,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "00d590b7ed39cd6e",
+  "floating": {
+    "id": "67e92ce0a6537ee6",
+    "type": "floating",
+    "children": [
+      {
+        "id": "4a7f3225cce6f930",
+        "type": "window",
+        "children": [
+          {
+            "id": "203699d8440b380a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fc05ed52bd1054e2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Resources/Templates/TP-dailynotes.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 278,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "6439a801839f27f5",
   "lastOpenFiles": [
+    "test.md",
+    "Resources/Templates/TP-pending.md",
+    "Daily Notes/2023-03-21.md",
+    "Untitled 2.md",
+    "Resources/Templates/TP-dailynotes.md",
+    "0000 Index 🔗/0110 Pending 📃.md",
+    "0000 Index 🔗/0011 Algorithms ♾️.md",
+    "wasm-pack.md",
+    "Option의 unwrap 메서드는 소유권을 가져간다.md",
     "러스트로 game of life 구현하기.md",
     "쿠팡 물류센터.md",
     "Untitled 1.md",
@@ -245,7 +319,6 @@
     "wasm-pack 사용하기.md",
     "0000 Index 🔗/0080 Scraps 📚.md",
     "Rust 🦀.md",
-    "wasm-pack.md",
     "11번가 검색데이터 및 추천 개발 전환형 인턴.md",
     "0000 Index 🔗/0012 Career.md",
     "예비군.md",
@@ -255,19 +328,11 @@
     "2023년 동원훈련 일정 확인하기.md",
     "0000 Index 🔗/0000 Index 🔗.md",
     "Daily Notes/2023-02-09.md",
-    "Resources/Templates/TP-dailynotes.md",
     "Utility.md",
-    "online c++ compiler.md",
-    "prime numbers.md",
-    "snake game with rust.md",
-    "컬리 채용 -  물류 프론트엔드 체험형 인턴 모집 3개월.md",
-    "Daily Notes/2023-03-15.md",
-    "삼성 SDS 공개채용.md",
     "buczhhy2.bmp",
     "22kgm33t.bmp",
     "55sfd2y9.bmp",
     "txcq3hnm.bmp",
-    "남부발전 체험형 인턴.md",
     "Pasted image 20230313220930.png",
     "The camel has two humps.pdf",
     "Pasted image 20230308185713.png",

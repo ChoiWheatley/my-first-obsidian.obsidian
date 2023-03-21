@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "TP-pending",
+      "path": "Resources/Templates/TP-pending.md"
+    },
+    {
+      "basename": "test",
+      "path": "test.md"
+    },
+    {
+      "basename": "2023-03-21",
+      "path": "Daily Notes/2023-03-21.md"
+    },
+    {
+      "basename": "TP-dailynotes",
+      "path": "Resources/Templates/TP-dailynotes.md"
+    },
+    {
       "basename": "0011 Algorithms ♾️",
       "path": "0000 Index 🔗/0011 Algorithms ♾️.md"
     },
@@ -63,10 +79,6 @@
     {
       "basename": "2023-02-09",
       "path": "Daily Notes/2023-02-09.md"
-    },
-    {
-      "basename": "TP-dailynotes",
-      "path": "Resources/Templates/TP-dailynotes.md"
     },
     {
       "basename": "snake game with rust",
@@ -187,18 +199,6 @@
     {
       "basename": "2023-03-08",
       "path": "Daily Notes/2023-03-08.md"
-    },
-    {
-      "basename": "0031 감정저널 Emotions 🤔",
-      "path": "0000 Index 🔗/0031 감정저널 Emotions 🤔.md"
-    },
-    {
-      "basename": "0005 GoogleKeep Archieve 💾",
-      "path": "0000 Index 🔗/0005 GoogleKeep Archieve 💾.md"
-    },
-    {
-      "basename": "firefox css uwp style",
-      "path": "firefox css uwp style.md"
     }
   ],
   "omittedPaths": [],
