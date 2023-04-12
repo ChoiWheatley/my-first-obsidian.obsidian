@@ -4,42 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "d45ae32c98dd1c95",
+        "id": "cd30498506384f0a",
         "type": "tabs",
         "children": [
           {
-            "id": "00d590b7ed39cd6e",
+            "id": "ffb8a63eeab0228d",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Daily Notes/2023-03-21.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+                "file": "0000 Index 🔗/Pending ⌛.canvas",
+                "viewState": {
+                  "x": 3252.761359266538,
+                  "y": -5927.409517792128,
+                  "zoom": -0.7433940370355689
+                }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "6439a801839f27f5",
+            "id": "4b0030b7043068ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Templates/TP-pending.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "251fe57f5d15cf07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
+                "file": "C++.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,7 +50,7 @@
       {
         "id": "6630758b28532a2b",
         "type": "tabs",
-        "dimension": 67.31428571428572,
+        "dimension": 66.54589371980676,
         "children": [
           {
             "id": "6bdef0f7e326b2c7",
@@ -92,7 +83,7 @@
       {
         "id": "b2583154d243edd2",
         "type": "tabs",
-        "dimension": 32.68571428571428,
+        "dimension": 33.45410628019324,
         "children": [
           {
             "id": "dcaca3a7e9637349",
@@ -108,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#algo/binarysearch",
+                "query": "pending",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Templates/TP-pending.md",
+                "file": "C++.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Templates/TP-pending.md",
+                "file": "C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Templates/TP-pending.md"
+                "file": "C++.md"
               }
             }
           },
@@ -198,8 +189,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "f0169b5a9c097f51",
@@ -212,11 +202,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/Templates/TP-pending.md",
+                "file": "C++.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -225,17 +215,17 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": true,
+                  "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
+                  "nodeSizeMultiplier": 0.738020833333333,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8070860237934422,
+                  "scale": 0.1490068546360535,
                   "close": true
                 }
               }
@@ -262,84 +252,48 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "67e92ce0a6537ee6",
-    "type": "floating",
-    "children": [
-      {
-        "id": "4a7f3225cce6f930",
-        "type": "window",
-        "children": [
-          {
-            "id": "203699d8440b380a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "fc05ed52bd1054e2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Resources/Templates/TP-dailynotes.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 278,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "6439a801839f27f5",
+  "active": "4b0030b7043068ff",
   "lastOpenFiles": [
-    "test.md",
-    "Resources/Templates/TP-pending.md",
-    "Daily Notes/2023-03-21.md",
-    "Untitled 2.md",
-    "Resources/Templates/TP-dailynotes.md",
-    "0000 Index 🔗/0110 Pending 📃.md",
-    "0000 Index 🔗/0011 Algorithms ♾️.md",
-    "wasm-pack.md",
-    "Option의 unwrap 메서드는 소유권을 가져간다.md",
-    "러스트로 game of life 구현하기.md",
-    "쿠팡 물류센터.md",
-    "Untitled 1.md",
-    "Pasted image 20230316230116.png",
-    "wasm with rust.md",
-    "wasm-pack 사용하기.md",
-    "0000 Index 🔗/0080 Scraps 📚.md",
-    "Rust 🦀.md",
-    "11번가 검색데이터 및 추천 개발 전환형 인턴.md",
-    "0000 Index 🔗/0012 Career.md",
-    "예비군.md",
-    "Daily Notes/2023-03-16.md",
-    "boj.kr/9253.md",
-    "공군 전역자를 위한 예비군 훈련 정리 2022.md",
-    "2023년 동원훈련 일정 확인하기.md",
+    "extern 키워드 + 컴파일 인자로 여러개의 cpp 파일을 동일한 스코프에  때려넣자.md",
+    "C++.md",
+    "CMake.md",
+    "gcc options.md",
+    "typeid.md",
+    "google coding conventions.md",
+    "0000 Index 🔗/0090 Bucket Lists 🪣.md",
+    "template 키워드를 선언만 하면 안 되는 이유 C++.md",
+    "0000 Index 🔗/0010 Programming 👩‍💻.md",
     "0000 Index 🔗/0000 Index 🔗.md",
-    "Daily Notes/2023-02-09.md",
-    "Utility.md",
-    "buczhhy2.bmp",
-    "22kgm33t.bmp",
-    "55sfd2y9.bmp",
-    "txcq3hnm.bmp",
-    "Pasted image 20230313220930.png",
-    "The camel has two humps.pdf",
-    "Pasted image 20230308185713.png",
-    "Pasted image 20230308185649.png",
-    "Resources/1zb785qo.bmp",
+    "0000 Index 🔗/0080 Scraps 📚.md",
+    "0000 Index 🔗/0031 감정저널 Emotions 🤔.md",
+    "2022-07-20 가식에 대해서 어떻게 생각하는지.md",
+    "비어 브레드 맥주빵.md",
+    "Google Test.md",
+    "enum을 예외로 던지지 말라.md",
+    "Value Categories in C++17 - lvalue, rvalue, prvalue.md",
+    "0000 Index 🔗/0020 Games 🎮.md",
+    "terraria.md",
+    "Exception Safe Code, Part I - Jon Kalb.md",
+    "pointer ownership in c++.md",
+    "람다 캡처 자리에 아예 새 변수를 정의하는 방법.md",
+    "Functional programming -- expression templates, builds structures representing a computation at compile time.md",
+    "linux - How much data does SSH typically use - Super User.md",
+    "활성 글루텐 쿠키앤베이킹.md",
+    "원격접속을 위한 공유기 세팅을 위한 공유기 구매욕구.md",
+    "0000 Index 🔗/Pending ⌛.canvas",
+    "Resources/unnamed 1.jpg",
+    "Resources/unnamed.jpg",
     "머리 - canvas view.canvas",
-    "5lnee327.bmp",
+    "KEXP - Kelly Lee Owens - Full Performance (Live on KEXP) [Oskqru6HKUo - 1218x685 - 15m30s].png",
+    "KEXP - Kelly Lee Owens - Full Performance (Live on KEXP) [Oskqru6HKUo - 1218x685 - 15m03s] 1.png",
+    "KEXP - Kelly Lee Owens - Full Performance (Live on KEXP) [Oskqru6HKUo - 1218x685 - 15m03s].png",
+    "Pasted image 20230403185845.jpg",
+    "Pasted image 20230403150236.png",
+    "Pasted image 20230403150225.png",
+    "fastest idiomatic i",
+    "Pasted image 20230323184722.png",
+    "Pasted image 20230316230116.png",
+    "The camel has two humps.pdf",
     "boj.kr"
   ]
 }

@@ -4,5 +4,6 @@
   "monospaceFontFamily": "D2Coding",
   "translucency": false,
   "showViewHeader": true,
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "baseFontSize": 18
 }

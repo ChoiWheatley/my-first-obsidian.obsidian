@@ -43,5 +43,17 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": []
+  "treeData": [
+    {
+      "id": "a194540aab0e0cab",
+      "parent": 0,
+      "droppable": true,
+      "text": "Value Categories in C++17. The meaning of value categories has… | by Barry Revzin | Medium",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
 }
