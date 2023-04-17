@@ -16,8 +16,8 @@
               "state": {
                 "file": "0000 Index 🔗/Pending ⌛.canvas",
                 "viewState": {
-                  "x": 3252.761359266538,
-                  "y": -5927.409517792128,
+                  "x": 3381.6621774747377,
+                  "y": -6585.050007230466,
                   "zoom": -0.7433940370355689
                 }
               },
@@ -25,12 +25,12 @@
             }
           },
           {
-            "id": "4b0030b7043068ff",
+            "id": "bccabf26f25c4100",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++.md",
+                "file": "0000 Index 🔗/0090 Bucket Lists 🪣.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.5
+    "width": 218.51103591918945
   },
   "right": {
     "id": "f07e1436ce211fbe",
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++.md",
+                "file": "0000 Index 🔗/0090 Bucket Lists 🪣.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++.md",
+                "file": "0000 Index 🔗/0090 Bucket Lists 🪣.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++.md"
+                "file": "0000 Index 🔗/0090 Bucket Lists 🪣.md"
               }
             }
           },
@@ -202,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "C++.md",
+                "file": "0000 Index 🔗/0090 Bucket Lists 🪣.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -225,7 +225,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.1490068546360535,
+                  "scale": 0.20890506185115665,
                   "close": true
                 }
               }
@@ -252,35 +252,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4b0030b7043068ff",
+  "active": "bccabf26f25c4100",
   "lastOpenFiles": [
-    "extern 키워드 + 컴파일 인자로 여러개의 cpp 파일을 동일한 스코프에  때려넣자.md",
-    "C++.md",
-    "CMake.md",
-    "gcc options.md",
-    "typeid.md",
-    "google coding conventions.md",
-    "0000 Index 🔗/0090 Bucket Lists 🪣.md",
-    "template 키워드를 선언만 하면 안 되는 이유 C++.md",
-    "0000 Index 🔗/0010 Programming 👩‍💻.md",
-    "0000 Index 🔗/0000 Index 🔗.md",
-    "0000 Index 🔗/0080 Scraps 📚.md",
-    "0000 Index 🔗/0031 감정저널 Emotions 🤔.md",
-    "2022-07-20 가식에 대해서 어떻게 생각하는지.md",
-    "비어 브레드 맥주빵.md",
-    "Google Test.md",
-    "enum을 예외로 던지지 말라.md",
-    "Value Categories in C++17 - lvalue, rvalue, prvalue.md",
-    "0000 Index 🔗/0020 Games 🎮.md",
-    "terraria.md",
-    "Exception Safe Code, Part I - Jon Kalb.md",
-    "pointer ownership in c++.md",
-    "람다 캡처 자리에 아예 새 변수를 정의하는 방법.md",
-    "Functional programming -- expression templates, builds structures representing a computation at compile time.md",
-    "linux - How much data does SSH typically use - Super User.md",
-    "활성 글루텐 쿠키앤베이킹.md",
-    "원격접속을 위한 공유기 세팅을 위한 공유기 구매욕구.md",
     "0000 Index 🔗/Pending ⌛.canvas",
+    "0000 Index 🔗/0090 Bucket Lists 🪣.md",
+    "Daily Notes/2023-02-24.md",
+    "test.md",
+    "Resources/Templates/TP-timestamp.md",
+    "testtestt.md",
+    "Resources/Templates/TP-dailynotes.md",
+    "Resources/Templates/TP-pending.md",
+    "0000 Index 🔗/0005 GoogleKeep Archieve 💾.md",
+    "Rust로 만든 유용한 툴들.md",
+    "0000 Index 🔗/0080 Scraps 📚.md",
+    "Static web app using rust.md",
+    "0000 Index 🔗/0031 Emotions 🤔.md",
+    "Building a blog with Notions public API.md",
+    "0013.1 Scrapped 🦀.md",
+    "The Book -- Rust.md",
+    "Introduction to Yew.rs Cource.md",
+    "0000 Index 🔗/0013 Rust 🦀.md",
+    "0013.4 Rust 언어를 활용한 프로젝트는 여기에 🦀.md",
+    "Bitset in rust.md",
+    "Online Sandbox (Literally).md",
+    "0000 Index 🔗/0020 Games 🎮.md",
+    "ESTsoft 백엔드 개발자 부트캠프 오르미 1기.md",
+    "vector의 back 이나 end는 비어있을 때 undefined behavior를 발생시킨다.md",
+    "C++.md",
+    "0000 Index 🔗/0010 Programming 👩‍💻.md",
     "Resources/unnamed 1.jpg",
     "Resources/unnamed.jpg",
     "머리 - canvas view.canvas",
