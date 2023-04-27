@@ -43,17 +43,5 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "4398d83d51faa667",
-      "parent": 0,
-      "droppable": true,
-      "text": "Software Engineering Intern (채용 연계형 인턴)",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }

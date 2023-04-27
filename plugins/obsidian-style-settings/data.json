@@ -1,6 +1,6 @@
 {
   "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
-  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-macchiato",
   "anuppuccin-theme-settings@@anp-callout-select": "anp-callout-block",
   "anuppuccin-theme-settings@@anp-callout-color-toggle": true,
   "anuppuccin-theme-settings@@anp-codeblock-numbers": true,
@@ -10,10 +10,21 @@
   "anuppuccin-theme-settings@@anp-header-margin-toggle": true,
   "anuppuccin-theme-settings@@anp-header-divider-color-toggle": true,
   "anuppuccin-theme-settings@@anp-autohide-titlebar": false,
-  "anuppuccin-theme-settings@@anp-colorful-frame": true,
+  "anuppuccin-theme-settings@@anp-colorful-frame": false,
   "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-light": false,
   "anuppuccin-theme-settings@@anp-layout-select": "anp-border-layout",
   "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-dark": false,
   "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-rosewater",
-  "anuppuccin-theme-settings@@anp-colorful-frame-opacity": 1
+  "anuppuccin-theme-settings@@anp-colorful-frame-opacity": 1,
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-green",
+  "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
+  "anuppuccin-theme-settings@@anp-color-transition-toggle": true,
+  "anuppuccin-theme-settings@@anp-button-metadata-toggle": true,
+  "anuppuccin-theme-settings@@anp-print": true,
+  "anuppuccin-theme-settings@@anp-hide-status-bar": false,
+  "anuppuccin-theme-settings@@anp-tooltip-toggle": false,
+  "anuppuccin-theme-settings@@anp-hide-borders": false,
+  "anuppuccin-theme-settings@@anp-bg-fix": false,
+  "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-alternate-tab-toggle",
+  "anuppuccin-theme-settings@@anp-custom-checkboxes": true
 }
