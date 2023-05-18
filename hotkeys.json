@@ -49,7 +49,19 @@
       "key": "6"
     }
   ],
-  "file-explorer:open": [
+  "file-explorer:open": [],
+  "editor:toggle-source": [],
+  "remotely-save:start-sync": [
+    {
+      "modifiers": [],
+      "key": "F7"
+    }
+  ],
+  "editor:delete-paragraph": [],
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "obsidian-excalidraw-plugin:toggle-lock": [],
+  "markdown:toggle-preview": [
     {
       "modifiers": [
         "Mod",
@@ -57,6 +69,5 @@
       ],
       "key": "E"
     }
-  ],
-  "editor:toggle-source": []
+  ]
 }

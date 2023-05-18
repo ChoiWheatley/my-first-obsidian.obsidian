@@ -43,5 +43,17 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": []
+  "treeData": [
+    {
+      "id": "3bf7adbd4d84e30d",
+      "parent": 0,
+      "droppable": true,
+      "text": "Understanding Python Dataclasses - GeeksforGeeks",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
 }
