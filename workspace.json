@@ -16,21 +16,21 @@
               "state": {
                 "file": "0000 Index 🔗/Pending ⌛.canvas",
                 "viewState": {
-                  "x": 3050.604284119525,
-                  "y": -6383.401414040688,
-                  "zoom": -0.41006070370223585
+                  "x": 3354.2849828542553,
+                  "y": -6602.87535652606,
+                  "zoom": -0.7433940370355692
                 }
               },
               "pinned": true
             }
           },
           {
-            "id": "86855ca4bf5cfced",
+            "id": "cff62a17af5d52cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0000 Index 🔗/0014 Python 🐍.md",
+                "file": "RESTful API란 무엇인가.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -38,16 +38,33 @@
             }
           },
           {
-            "id": "4289b6ae29c401a6",
+            "id": "804ceb96520c9408",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ESTsoft+백엔드+개발자+양성과정+시간표+('23.4.24+~+'23.9.5)+v.1.pdf"
+                "file": "20230508 estsoft - 김충환 회고강사특강 - 애자일 회고 - 매슬로우의 욕구계층 - 만다라트 과제있음.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eebbdefd64e6eeb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20230522 estsoft 김충환, tailwind.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -59,7 +76,7 @@
       {
         "id": "6630758b28532a2b",
         "type": "tabs",
-        "dimension": 53.58361774744028,
+        "dimension": 51.4018691588785,
         "children": [
           {
             "id": "6bdef0f7e326b2c7",
@@ -100,7 +117,7 @@
       {
         "id": "b2583154d243edd2",
         "type": "tabs",
-        "dimension": 46.41638225255972,
+        "dimension": 48.598130841121495,
         "children": [
           {
             "id": "dcaca3a7e9637349",
@@ -116,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dataclass",
+                "query": "reset",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +142,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0000 Index 🔗/Pending ⌛.canvas",
+                "file": "RESTful API란 무엇인가.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0000 Index 🔗/Pending ⌛.canvas",
+                "file": "RESTful API란 무엇인가.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0000 Index 🔗/Pending ⌛.canvas"
+                "file": "RESTful API란 무엇인가.md"
               }
             }
           }
@@ -226,7 +244,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0000 Index 🔗/Pending ⌛.canvas",
+                "file": "RESTful API란 무엇인가.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -276,39 +294,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ffb8a63eeab0228d",
+  "active": "cff62a17af5d52cd",
   "lastOpenFiles": [
-    "ESTsoft+백엔드+개발자+양성과정+시간표+('23.4.24+~+'23.9.5)+v.1.pdf",
-    "0000 Index 🔗/0012.1 ESTsoft 백엔드 개발자 부트캠프 오르미 1기 🙊.md",
-    "0000 Index 🔗/0014 Python 🐍.md",
-    "20230518 estsoft - python.md",
-    "84c12ea600ff72a816c6672bcbd5e82d.png",
-    "채움 HRD 📈.md",
-    "bisect_left (python).md",
-    "Export-d5cc1bf1-6e86-46bc-bbdc-5b72a3fe4463/INDEX 180a950a1d5d4144a89e0fa8c75ec0e8/lowerbound.md",
-    "Comparing result with enum in python.md",
-    "dataclasses python module.md",
-    "20230517 estsoft - python - linked list - dataclass - typing Self cast type union - __getitem__ - slice.indices.md",
-    "understanding python dataclasses.md",
-    "0000 Index 🔗/0005 GoogleKeep Archieve 💾.md",
-    "Pasted image 20230518131309.png",
-    "2023-05-10 estsoft - python - class, class attr and instance attr, magic methods, UserInfo and BookInfo 실습, inheritance.md",
+    "파이썬을 활용한 RESTful API 개발 기본(제목미정).md",
     "0000 Index 🔗/Pending ⌛.canvas",
-    "2023-05-11 estsoft - python - inheritance, linked-list, method-overriding, MRO, private-member, iterator, generator, module, file-io, excel.md",
-    "sort - sorted - key - index 추적 - python.md",
-    "2023-05-18 공부방.md",
-    "ESTsoft_QR.pdf",
-    "self reference a class with typing.Self (python).md",
-    "typing.Optional and type union in python.md",
-    "closures, factory functions (python).md",
-    "try - except - else - finally (python).md",
-    "xlsxwriter - python package.md",
-    "itertools module.md",
-    "re - regex python package.md",
-    "file-io (python).md",
-    "Linked List in python.md",
-    "module and package (python).md",
     "만다라트.canvas",
+    "파이썬 알고리즘 인터뷰 - 95가지 알고리즘 문제 풀이로 완성하는 코딩테스트.md",
+    "0000 Index 🔗/0014 Python 🐍.md",
+    "RESTful API란 무엇인가.md",
+    "0000 Index 🔗/0015 Javascript.md",
+    "Daily Notes/2023-05-22.md",
+    "0000 Index 🔗/0012.1 ESTsoft 백엔드 개발자 부트캠프 오르미 1기 🙊.md",
+    "20230522 estsoft 김충환, tailwind.md",
+    "20230508 estsoft - 김충환 회고강사특강 - 애자일 회고 - 매슬로우의 욕구계층 - 만다라트 과제있음.md",
+    "20230522 Tailwind.md",
+    "20230522 김충환 회고강사특강.md",
+    "20230515 estsoft - 김충환 회고강사특강 - 3점조직 - 야생학습 - 자기계발은 복리 - 수파리 - 실수를 대하는 자세.md",
+    "20230520 pyscript에 대한 몇가지 견해가 충돌하는 것 같아서 한 줄 남긴다.md",
+    "ESTsoft_QR.pdf",
+    "The Shape of Infinity -- manifold garden.md",
+    "closures, factory functions (python).md",
+    "클래스 - python.md",
+    "decorator - python.md",
+    "2023-05-11 estsoft - python - inheritance, linked-list, method-overriding, MRO, private-member, iterator, generator, module, file-io, excel.md",
+    "flat map in python.md",
+    "Export-d5cc1bf1-6e86-46bc-bbdc-5b72a3fe4463/INDEX 180a950a1d5d4144a89e0fa8c75ec0e8/LIS 가장 긴 증가하는 부분수열 d61b26f5619a4ea1b0412155535ec812.md",
+    "20230518 estsoft - python - tree -- LIS -- selection sort -- insertion sort -- merge sort -- quick sort.md",
+    "CSS.md",
+    "css - aspect-ratio를 사용하여 원하는 비율로 맞추기.md",
+    "공동집필 프로젝트 - estsoft.md",
+    "Daily Notes/2023-05-20.md",
+    "ESTsoft+백엔드+개발자+양성과정+시간표+('23.4.24+~+'23.9.5)+v.1.pdf",
+    "84c12ea600ff72a816c6672bcbd5e82d.png",
+    "Pasted image 20230518131309.png",
     "Fluent Python Clear, Concise, and Effective Programming, 2nd Edition by Luciano Ramalho_bibis.ir.pdf",
     "Pasted image 20230515173343.png",
     "Pasted image 20230515150429.png",

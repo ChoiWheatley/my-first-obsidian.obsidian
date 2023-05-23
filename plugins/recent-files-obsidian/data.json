@@ -1,24 +1,148 @@
 {
   "recentFiles": [
     {
+      "basename": "RESTful API란 무엇인가",
+      "path": "RESTful API란 무엇인가.md"
+    },
+    {
+      "basename": "파이썬을 활용한 RESTful API 개발 기본(제목미정)",
+      "path": "파이썬을 활용한 RESTful API 개발 기본(제목미정).md"
+    },
+    {
       "basename": "Pending ⌛",
       "path": "0000 Index 🔗/Pending ⌛.canvas"
     },
     {
-      "basename": "ESTsoft+백엔드+개발자+양성과정+시간표+('23.4.24+~+'23.9.5)+v.1",
-      "path": "ESTsoft+백엔드+개발자+양성과정+시간표+('23.4.24+~+'23.9.5)+v.1.pdf"
+      "basename": "만다라트",
+      "path": "만다라트.canvas"
     },
     {
-      "basename": "0012.1 ESTsoft 백엔드 개발자 부트캠프 오르미 1기 🙊",
-      "path": "0000 Index 🔗/0012.1 ESTsoft 백엔드 개발자 부트캠프 오르미 1기 🙊.md"
+      "basename": "파이썬 알고리즘 인터뷰 - 95가지 알고리즘 문제 풀이로 완성하는 코딩테스트",
+      "path": "파이썬 알고리즘 인터뷰 - 95가지 알고리즘 문제 풀이로 완성하는 코딩테스트.md"
     },
     {
       "basename": "0014 Python 🐍",
       "path": "0000 Index 🔗/0014 Python 🐍.md"
     },
     {
-      "basename": "20230518 estsoft - python",
-      "path": "20230518 estsoft - python.md"
+      "basename": "0012.1 ESTsoft 백엔드 개발자 부트캠프 오르미 1기 🙊",
+      "path": "0000 Index 🔗/0012.1 ESTsoft 백엔드 개발자 부트캠프 오르미 1기 🙊.md"
+    },
+    {
+      "basename": "20230522 estsoft 김충환, tailwind",
+      "path": "20230522 estsoft 김충환, tailwind.md"
+    },
+    {
+      "basename": "20230508 estsoft - 김충환 회고강사특강 - 애자일 회고 - 매슬로우의 욕구계층 - 만다라트 과제있음",
+      "path": "20230508 estsoft - 김충환 회고강사특강 - 애자일 회고 - 매슬로우의 욕구계층 - 만다라트 과제있음.md"
+    },
+    {
+      "basename": "CSS",
+      "path": "CSS.md"
+    },
+    {
+      "basename": "20230522 Tailwind",
+      "path": "20230522 Tailwind.md"
+    },
+    {
+      "basename": "20230522 김충환 회고강사특강",
+      "path": "20230522 김충환 회고강사특강.md"
+    },
+    {
+      "basename": "20230515 estsoft - 김충환 회고강사특강 - 3점조직 - 야생학습 - 자기계발은 복리 - 수파리 - 실수를 대하는 자세",
+      "path": "20230515 estsoft - 김충환 회고강사특강 - 3점조직 - 야생학습 - 자기계발은 복리 - 수파리 - 실수를 대하는 자세.md"
+    },
+    {
+      "basename": "20230520 pyscript에 대한 몇가지 견해가 충돌하는 것 같아서 한 줄 남긴다",
+      "path": "20230520 pyscript에 대한 몇가지 견해가 충돌하는 것 같아서 한 줄 남긴다.md"
+    },
+    {
+      "basename": "ESTsoft_QR",
+      "path": "ESTsoft_QR.pdf"
+    },
+    {
+      "basename": "The Shape of Infinity -- manifold garden",
+      "path": "The Shape of Infinity -- manifold garden.md"
+    },
+    {
+      "basename": "closures, factory functions (python)",
+      "path": "closures, factory functions (python).md"
+    },
+    {
+      "basename": "클래스 - python",
+      "path": "클래스 - python.md"
+    },
+    {
+      "basename": "decorator - python",
+      "path": "decorator - python.md"
+    },
+    {
+      "basename": "2023-05-11 estsoft - python - inheritance, linked-list, method-overriding, MRO, private-member, iterator, generator, module, file-io, excel",
+      "path": "2023-05-11 estsoft - python - inheritance, linked-list, method-overriding, MRO, private-member, iterator, generator, module, file-io, excel.md"
+    },
+    {
+      "basename": "flat map in python",
+      "path": "flat map in python.md"
+    },
+    {
+      "basename": "LIS 가장 긴 증가하는 부분수열 d61b26f5619a4ea1b0412155535ec812",
+      "path": "Export-d5cc1bf1-6e86-46bc-bbdc-5b72a3fe4463/INDEX 180a950a1d5d4144a89e0fa8c75ec0e8/LIS 가장 긴 증가하는 부분수열 d61b26f5619a4ea1b0412155535ec812.md"
+    },
+    {
+      "basename": "20230518 estsoft - python - tree -- LIS -- selection sort -- insertion sort -- merge sort -- quick sort",
+      "path": "20230518 estsoft - python - tree -- LIS -- selection sort -- insertion sort -- merge sort -- quick sort.md"
+    },
+    {
+      "basename": "css - aspect-ratio를 사용하여 원하는 비율로 맞추기",
+      "path": "css - aspect-ratio를 사용하여 원하는 비율로 맞추기.md"
+    },
+    {
+      "basename": "2023-05-18 Python 시험 있습니다 ⚠️",
+      "path": "2023-05-18 Python 시험 있습니다 ⚠️.md"
+    },
+    {
+      "basename": "공동집필 프로젝트 - estsoft",
+      "path": "공동집필 프로젝트 - estsoft.md"
+    },
+    {
+      "basename": "2023-05-20",
+      "path": "Daily Notes/2023-05-20.md"
+    },
+    {
+      "basename": "20230519 estsoft",
+      "path": "20230519 estsoft.md"
+    },
+    {
+      "basename": "bootstrap and tailwind",
+      "path": "bootstrap and tailwind.md"
+    },
+    {
+      "basename": "20230519 estsoft - python",
+      "path": "20230519 estsoft - python.md"
+    },
+    {
+      "basename": "vim 관련 꿀팁",
+      "path": "vim 관련 꿀팁.md"
+    },
+    {
+      "basename": "0080 Scraps 📚",
+      "path": "0000 Index 🔗/0080 Scraps 📚.md"
+    },
+    {
+      "basename": "typing.Iterator",
+      "path": "typing.Iterator.md"
+    },
+    {
+      "basename": "typing.Callable",
+      "path": "typing.Callable.md"
+    },
+    {
+      "basename": "ESTsoft+백엔드+개발자+양성과정+시간표+('23.4.24+~+'23.9.5)+v.1",
+      "path": "ESTsoft+백엔드+개발자+양성과정+시간표+('23.4.24+~+'23.9.5)+v.1.pdf"
+    },
+    {
+      "basename": "deque in python",
+      "path": "deque in python.md"
     },
     {
       "basename": "채움 HRD 📈",
@@ -57,20 +181,12 @@
       "path": "2023-05-10 estsoft - python - class, class attr and instance attr, magic methods, UserInfo and BookInfo 실습, inheritance.md"
     },
     {
-      "basename": "2023-05-11 estsoft - python - inheritance, linked-list, method-overriding, MRO, private-member, iterator, generator, module, file-io, excel",
-      "path": "2023-05-11 estsoft - python - inheritance, linked-list, method-overriding, MRO, private-member, iterator, generator, module, file-io, excel.md"
-    },
-    {
       "basename": "sort - sorted - key - index 추적 - python",
       "path": "sort - sorted - key - index 추적 - python.md"
     },
     {
       "basename": "2023-05-18 공부방",
       "path": "2023-05-18 공부방.md"
-    },
-    {
-      "basename": "ESTsoft_QR",
-      "path": "ESTsoft_QR.pdf"
     },
     {
       "basename": "self reference a class with typing.Self (python)",
@@ -81,124 +197,8 @@
       "path": "typing.Optional and type union in python.md"
     },
     {
-      "basename": "closures, factory functions (python)",
-      "path": "closures, factory functions (python).md"
-    },
-    {
       "basename": "try - except - else - finally (python)",
       "path": "try - except - else - finally (python).md"
-    },
-    {
-      "basename": "xlsxwriter - python package",
-      "path": "xlsxwriter - python package.md"
-    },
-    {
-      "basename": "itertools module",
-      "path": "itertools module.md"
-    },
-    {
-      "basename": "re - regex python package",
-      "path": "re - regex python package.md"
-    },
-    {
-      "basename": "file-io (python)",
-      "path": "file-io (python).md"
-    },
-    {
-      "basename": "Linked List in python",
-      "path": "Linked List in python.md"
-    },
-    {
-      "basename": "module and package (python)",
-      "path": "module and package (python).md"
-    },
-    {
-      "basename": "decorator - python",
-      "path": "decorator - python.md"
-    },
-    {
-      "basename": "custom iterator with __iter__ in python",
-      "path": "custom iterator with __iter__ in python.md"
-    },
-    {
-      "basename": "private attributes (python)",
-      "path": "private attributes (python).md"
-    },
-    {
-      "basename": "파이썬에는 인터페이스가 없다",
-      "path": "파이썬에는 인터페이스가 없다.md"
-    },
-    {
-      "basename": "Multiple Inheritance and mro builtin function",
-      "path": "Multiple Inheritance and mro builtin function.md"
-    },
-    {
-      "basename": "repr, dir, vars, pprint.pformat + UserInfo and BookInfo 실습 (python)",
-      "path": "repr, dir, vars, pprint.pformat + UserInfo and BookInfo 실습 (python).md"
-    },
-    {
-      "basename": "magic methods (python)",
-      "path": "magic methods (python).md"
-    },
-    {
-      "basename": "20230509 estsoft - python - list comprehension, try except else, builtin functions, args and kwargs, lambda",
-      "path": "20230509 estsoft - python - list comprehension, try except else, builtin functions, args and kwargs, lambda.md"
-    },
-    {
-      "basename": "lambda - python",
-      "path": "lambda - python.md"
-    },
-    {
-      "basename": "args, kwargs 가변인자와 가변 키워드 인자",
-      "path": "args, kwargs 가변인자와 가변 키워드 인자.md"
-    },
-    {
-      "basename": "가짜 JSON 데이터 생성기(json-generator)를 사용한 python 연습문제",
-      "path": "가짜 JSON 데이터 생성기(json-generator)를 사용한 python 연습문제.md"
-    },
-    {
-      "basename": "list comprehension - python",
-      "path": "list comprehension - python.md"
-    },
-    {
-      "basename": "20230515 estsoft - 김충환 회고강사특강 - 3점조직 - 야생학습 - 자기계발은 복리 - 수파리 - 실수를 대하는 자세",
-      "path": "20230515 estsoft - 김충환 회고강사특강 - 3점조직 - 야생학습 - 자기계발은 복리 - 수파리 - 실수를 대하는 자세.md"
-    },
-    {
-      "basename": "회고 특강을 회고하며 - 최악의 조직은 3점짜리 조직이다.",
-      "path": "회고 특강을 회고하며 - 최악의 조직은 3점짜리 조직이다..md"
-    },
-    {
-      "basename": "20230508 estsoft - 김충환 회고강사특강 - 애자일 회고 - 매슬로우의 욕구계층 - 만다라트 과제있음",
-      "path": "20230508 estsoft - 김충환 회고강사특강 - 애자일 회고 - 매슬로우의 욕구계층 - 만다라트 과제있음.md"
-    },
-    {
-      "basename": "20230501 estsoft - python - convention, types, variables, int, float",
-      "path": "20230501 estsoft - python - convention, types, variables, int, float.md"
-    },
-    {
-      "basename": "20230504 estsoft - python - sort, deep copy and shallow copy, tuple, dictionary, set, match case",
-      "path": "20230504 estsoft - python - sort, deep copy and shallow copy, tuple, dictionary, set, match case.md"
-    },
-    {
-      "basename": "에러를 빠르게 만드는 편인가요, 아니면 None, inf와 같이 클라이언트 알아서 판단할 수 있게 만드는 편인가요",
-      "path": "에러를 빠르게 만드는 편인가요, 아니면 None, inf와 같이 클라이언트 알아서 판단할 수 있게 만드는 편인가요.md"
-    },
-    {
-      "basename": "set - python",
-      "path": "set - python.md"
-    },
-    {
-      "basename": "dictionary - python",
-      "path": "dictionary - python.md"
-    },
-    {
-      "basename": "tuple - python",
-      "path": "tuple - python.md"
-    },
-    {
-      "basename": "deep copy and shallow copy - python",
-      "path": "deep copy and shallow copy - python.md"
     }
   ],
   "omittedPaths": [],

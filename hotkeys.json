@@ -50,7 +50,15 @@
     }
   ],
   "file-explorer:open": [],
-  "editor:toggle-source": [],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
   "remotely-save:start-sync": [
     {
       "modifiers": [],
