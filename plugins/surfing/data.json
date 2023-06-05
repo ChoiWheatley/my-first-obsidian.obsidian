@@ -43,5 +43,17 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": []
+  "treeData": [
+    {
+      "id": "67433b761f7622bc",
+      "parent": 0,
+      "droppable": true,
+      "text": "회고 교육 실습 03 만다라트 (2차) - Google Slides",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
 }

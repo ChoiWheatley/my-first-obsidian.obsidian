@@ -4,7 +4,6 @@
   "dataview",
   "obsidian-excalidraw-plugin",
   "templater-obsidian",
-  "calendar",
   "tag-wrangler",
   "recent-files-obsidian",
   "note-refactor-obsidian",
@@ -17,5 +16,7 @@
   "convert-url-to-iframe",
   "obsidian-annotator",
   "obsidian-style-settings",
-  "emoji-shortcodes"
+  "emoji-shortcodes",
+  "pane-relief",
+  "darlal-switcher-plus"
 ]
