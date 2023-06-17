@@ -31,5 +31,7 @@
   "anuppuccin-theme-settings@@anp-alt-tab-custom-height": 35,
   "anuppuccin-theme-settings@@anp-disable-newtab-align": true,
   "anuppuccin-theme-settings@@anp-depth-tab-opacity": 0.4,
-  "anuppuccin-theme-settings@@anp-depth-tab-text-invert": false
+  "anuppuccin-theme-settings@@anp-depth-tab-text-invert": false,
+  "anuppuccin-theme-settings@@anp-list-toggle": false,
+  "things-style@@no-codeblock-line-numbers": true
 }

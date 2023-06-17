@@ -16,29 +16,21 @@
               "state": {
                 "file": "0000 Index 🔗/Pending ⌛.canvas",
                 "viewState": {
-                  "x": 3354.2849828542553,
-                  "y": -6602.87535652606,
-                  "zoom": -0.7433940370355692
+                  "x": 3516.312549809215,
+                  "y": -6505.571777125395,
+                  "zoom": -1.0767273703689024
                 }
               },
               "pinned": true
             }
           },
           {
-            "id": "cff62a17af5d52cd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "804ceb96520c9408",
+            "id": "703af6204f1f6746",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20230508 estsoft - 김충환 회고강사특강 - 애자일 회고 - 매슬로우의 욕구계층 - 만다라트 과제있음.md",
+                "file": "Daily Notes/2023-06-15.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,12 +38,38 @@
             }
           },
           {
-            "id": "eebbdefd64e6eeb6",
+            "id": "8426603cc57441dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20230522 estsoft 김충환, tailwind.md",
+                "file": "주니어 백엔드 개발자, 그 이상으로 🚀{book-project}.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef342ec09a8b02f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zoxide - z and autojump killer written in rust.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa7f7cbf866b5652",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stripe.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -71,7 +89,7 @@
       {
         "id": "6630758b28532a2b",
         "type": "tabs",
-        "dimension": 51.4018691588785,
+        "dimension": 66.78476527900797,
         "children": [
           {
             "id": "6bdef0f7e326b2c7",
@@ -112,7 +130,7 @@
       {
         "id": "b2583154d243edd2",
         "type": "tabs",
-        "dimension": 48.598130841121495,
+        "dimension": 33.21523472099203,
         "children": [
           {
             "id": "dcaca3a7e9637349",
@@ -128,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reset",
+                "query": "rebase",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 246.5124969482422
   },
   "right": {
     "id": "f07e1436ce211fbe",
@@ -150,7 +168,7 @@
       {
         "id": "65cd7eac316b8c65",
         "type": "tabs",
-        "dimension": 42.20183486238532,
+        "dimension": 43.237250554323715,
         "children": [
           {
             "id": "8c61852a415c878f",
@@ -158,6 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zoxide - z and autojump killer written in rust.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,6 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "zoxide - z and autojump killer written in rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,77 +209,39 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "b8ff9db5c17e9527",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "6cbfb7a01504d7d2",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ]
       },
       {
         "id": "8566a8d6afd48e07",
         "type": "tabs",
-        "dimension": 29.931192660550458,
+        "dimension": 22.172949002217297,
         "children": [
           {
             "id": "6136057e4ed4ac62",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "zoxide - z and autojump killer written in rust.md"
+              }
             }
           }
         ]
       },
       {
-        "id": "f0169b5a9c097f51",
+        "id": "7cd63f53b65c9119",
         "type": "tabs",
-        "dimension": 27.866972477064223,
+        "dimension": 34.58980044345898,
         "children": [
           {
-            "id": "503c5092657d43bf",
+            "id": "ddf1bb3ab68c8f2f",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 0.738020833333333,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.07580900832887337,
-                  "close": true
-                }
-              }
+              "type": "graph",
+              "state": {},
+              "pinned": true
             }
           }
         ]
@@ -271,69 +253,69 @@
   "left-ribbon": {
     "hiddenItems": {
       "remotely-save:Remotely Save": false,
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "daily-notes:Open today's daily note": false,
       "zk-prefixer:Create new unique note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dcaca3a7e9637349",
+  "active": "ef342ec09a8b02f6",
   "lastOpenFiles": [
-    "파이썬을 활용한 RESTful API 개발 기본(제목미정).md",
-    "0000 Index 🔗/Pending ⌛.canvas",
-    "만다라트.canvas",
-    "파이썬 알고리즘 인터뷰 - 95가지 알고리즘 문제 풀이로 완성하는 코딩테스트.md",
-    "0000 Index 🔗/0014 Python 🐍.md",
-    "RESTful API란 무엇인가.md",
-    "0000 Index 🔗/0015 Javascript.md",
-    "Daily Notes/2023-05-22.md",
+    "zoxide - z and autojump killer written in rust.md",
+    "주니어 백엔드 개발자, 그 이상으로 🚀{book-project}.md",
+    "20230617 book-project.md",
+    "Resources/Excalidraw/Drawing 2023-06-17 12.14.45.excalidraw.md",
+    "공동집필 프로젝트 - estsoft 📕.md",
+    "stripe.md",
+    "DateTimeField {auto_now_add} {auto_now} {django}.md",
+    "Daily Notes/2023-06-15.md",
+    "python 필수 의존성만 추려내는 방법.md",
+    "20230615 book-project.md",
+    "Pasted image 20230615202009.png",
+    "AppConfig {django}.md",
+    "Daily Notes/Daily Notes.md",
     "0000 Index 🔗/0012.1 ESTsoft 백엔드 개발자 부트캠프 오르미 1기 🙊.md",
-    "20230522 estsoft 김충환, tailwind.md",
-    "20230508 estsoft - 김충환 회고강사특강 - 애자일 회고 - 매슬로우의 욕구계층 - 만다라트 과제있음.md",
-    "20230522 Tailwind.md",
-    "20230522 김충환 회고강사특강.md",
-    "20230515 estsoft - 김충환 회고강사특강 - 3점조직 - 야생학습 - 자기계발은 복리 - 수파리 - 실수를 대하는 자세.md",
-    "20230520 pyscript에 대한 몇가지 견해가 충돌하는 것 같아서 한 줄 남긴다.md",
+    "django authorization for accessing인가 {mixins.{LoginRequiredMixin, UserPassesTestMixin}}.md",
+    "0000 Index 🔗/Pending ⌛.canvas",
+    "django reverse.md",
+    "django.urls.include(module, namespace).md",
     "ESTsoft_QR.pdf",
-    "The Shape of Infinity -- manifold garden.md",
-    "closures, factory functions (python).md",
-    "클래스 - python.md",
-    "decorator - python.md",
-    "2023-05-11 estsoft - python - inheritance, linked-list, method-overriding, MRO, private-member, iterator, generator, module, file-io, excel.md",
-    "flat map in python.md",
-    "Export-d5cc1bf1-6e86-46bc-bbdc-5b72a3fe4463/INDEX 180a950a1d5d4144a89e0fa8c75ec0e8/LIS 가장 긴 증가하는 부분수열 d61b26f5619a4ea1b0412155535ec812.md",
-    "20230518 estsoft - python - tree -- LIS -- selection sort -- insertion sort -- merge sort -- quick sort.md",
-    "CSS.md",
-    "css - aspect-ratio를 사용하여 원하는 비율로 맞추기.md",
-    "공동집필 프로젝트 - estsoft.md",
-    "Daily Notes/2023-05-20.md",
-    "ESTsoft+백엔드+개발자+양성과정+시간표+('23.4.24+~+'23.9.5)+v.1.pdf",
-    "84c12ea600ff72a816c6672bcbd5e82d.png",
-    "Pasted image 20230518131309.png",
-    "Fluent Python Clear, Concise, and Effective Programming, 2nd Edition by Luciano Ramalho_bibis.ir.pdf",
-    "Pasted image 20230515173343.png",
-    "Pasted image 20230515150429.png",
+    "python venv 환경설정.md",
+    "0000 Index 🔗/0014.1 Django 🎈.md",
+    "django runserver different port.md",
+    "int pk가 뭐냐 {django.{urlpatterns, path}}.md",
+    "django crispy forms.md",
+    "PATCH {HTTP}.md",
+    "PUT is idempotent, PATCH isn't.md",
+    "drf {django rest framework}.md",
+    "0000 Index 🔗/0070 Obsidian 💎.md",
+    "tab reuse on link opening, tab management {Obsidian}.md",
+    "Pasted image 20230614174946.png",
+    "Pasted image 20230614193952.png",
+    "Pasted image 20230614193728.png",
+    "Pasted image 20230614192248.png",
+    "Pasted image 20230614192239.png",
+    "Pasted image 20230614170910.png",
+    "Pasted image 20230614170851.png",
+    "Pasted image 20230614170840.png",
+    "Pasted image 20230614165211.png",
+    "만다라트.canvas",
     "머리 - canvas view.canvas",
-    "vlcsnap-2023-05-08-08h21m43s462.png",
+    "0000 Index 🔗/0014.1 Django.d",
+    "Untitled",
+    "ESTsoft+백엔드+개발자+양성과정+시간표+('23.4.24+~+'23.9.5)+v.1.pdf",
+    "Fluent Python Clear, Concise, and Effective Programming, 2nd Edition by Luciano Ramalho_bibis.ir.pdf",
     "직업선호도검사(L형)결과_최승현.pdf",
-    "Resources/Excalidraw/Drawing 2023-05-07 19.00.35.excalidraw.png",
-    "estsoft 출결 QR.png",
     "파이썬_부트캠프_얕은물.pdf",
-    "Pasted image 20230428212459.png",
-    "Pasted image 20230428211614.png",
-    "Pasted image 20230428210356.png",
     "Pending.canvas",
     "Computer Systems A Programmer's Perspective.pdf",
     "ESTsoft_1_OT_v.1.3.pdf",
     "ring.canvas",
-    "fastest idiomatic i",
-    "The camel has two humps.pdf",
-    "boj.kr"
+    "fastest idiomatic i"
   ]
 }

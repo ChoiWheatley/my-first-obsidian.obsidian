@@ -26,12 +26,24 @@
   "app:toggle-left-sidebar": [
     {
       "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
+    },
+    {
+      "modifiers": [
         "Mod"
       ],
       "key": "B"
     }
   ],
   "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "J"
+    },
     {
       "modifiers": [
         "Mod"

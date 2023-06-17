@@ -1,10 +1,14 @@
 {
   "accentColor": "",
-  "textFontFamily": "Nanum Gothic",
-  "monospaceFontFamily": "D2Coding",
+  "textFontFamily": "나눔바른고딕",
+  "monospaceFontFamily": "Hack,D2Coding",
   "translucency": false,
   "showViewHeader": true,
-  "cssTheme": "AnuPpuccin",
-  "baseFontSize": 17,
-  "theme": "moonstone"
+  "cssTheme": "Things",
+  "baseFontSize": 18,
+  "theme": "moonstone",
+  "interfaceFontFamily": "SF Pro Display,나눔바른고딕",
+  "enabledCssSnippets": [
+    "obsidian"
+  ]
 }
