@@ -43,17 +43,5 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "ec8c50b17fd98146",
-      "parent": 0,
-      "droppable": true,
-      "text": "GitHub - ajeetdsouza/zoxide: A smarter cd command. Supports all major shells.",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }
