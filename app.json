@@ -5,6 +5,10 @@
   "autoPairBrackets": true,
   "autoPairMarkdown": false,
   "useTab": true,
-  "readableLineLength": true,
-  "vimMode": true
+  "readableLineLength": false,
+  "vimMode": true,
+  "attachmentFolderPath": "assets",
+  "trashOption": "system",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "docs"
 }

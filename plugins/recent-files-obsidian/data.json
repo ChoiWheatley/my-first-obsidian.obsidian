@@ -5,16 +5,96 @@
       "path": "0000 Index 🔗/Pending ⌛.canvas"
     },
     {
+      "basename": "ESTsoft_QR",
+      "path": "ESTsoft_QR.pdf"
+    },
+    {
+      "basename": "0012.1 ESTsoft 백엔드 개발자 부트캠프 오르미 1기 🙊",
+      "path": "0000 Index 🔗/0012.1 ESTsoft 백엔드 개발자 부트캠프 오르미 1기 🙊.md"
+    },
+    {
+      "basename": "20230714 estsoft 특강 {권택순, 변형진}",
+      "path": "20230714 estsoft 특강 {권택순, 변형진}.md"
+    },
+    {
+      "basename": "0090 Bucket Lists 🪣",
+      "path": "0000 Index 🔗/0090 Bucket Lists 🪣.md"
+    },
+    {
+      "basename": "20230609 estsoft {권택순CTO}",
+      "path": "20230609 estsoft {권택순CTO}.md"
+    },
+    {
+      "basename": "Obsidian으로 블로그 만들기",
+      "path": "Obsidian으로 블로그 만들기.md"
+    },
+    {
+      "basename": "mkdocs",
+      "path": "mkdocs.md"
+    },
+    {
+      "basename": "django template",
+      "path": "django template.md"
+    },
+    {
+      "basename": "0014.1 Django 🎈",
+      "path": "0000 Index 🔗/0014.1 Django 🎈.md"
+    },
+    {
+      "basename": "0000 Index 🔗",
+      "path": "0000 Index 🔗/0000 Index 🔗.md"
+    },
+    {
+      "basename": "conda, pyenv, pipenv, venv와의 차이점",
+      "path": "conda, pyenv, pipenv, venv와의 차이점.md"
+    },
+    {
+      "basename": "0080 Scraps 📚",
+      "path": "0000 Index 🔗/0080 Scraps 📚.md"
+    },
+    {
+      "basename": "0013.4 Rust 언어를 활용한 프로젝트는 여기에 🦀",
+      "path": "0013.4 Rust 언어를 활용한 프로젝트는 여기에 🦀.md"
+    },
+    {
+      "basename": "Django Debug Toolbar",
+      "path": "Django Debug Toolbar.md"
+    },
+    {
+      "basename": "2023-07-12",
+      "path": "Daily Notes/2023-07-12.md"
+    },
+    {
+      "basename": "1차 프로젝트 - estsoft",
+      "path": "1차 프로젝트 - estsoft.md"
+    },
+    {
+      "basename": "No. 25 중간값 구하기",
+      "path": "No. 25 중간값 구하기.md"
+    },
+    {
+      "basename": "2023-04-23송도 해돚이공원 5바퀴 == 7.67km 페이스 7분대 갈때 걸어가고 올때 걸어오고 총 21.05km",
+      "path": "2023-04-23송도 해돚이공원 5바퀴 == 7.67km 페이스 7분대 갈때 걸어가고 올때 걸어오고 총 21.05km.md"
+    },
+    {
+      "basename": "[Obsidian Basic Formatting Syntax",
+      "path": "[Obsidian Basic Formatting Syntax.md"
+    },
+    {
+      "basename": "삼성 SDS 공개채용",
+      "path": "삼성 SDS 공개채용.md"
+    },
+    {
+      "basename": "20230424 백엔드 개발의 정상을 향해 어떤 설계를 할 수 있을까 + 위니브 강사 이호준",
+      "path": "20230424 백엔드 개발의 정상을 향해 어떤 설계를 할 수 있을까 + 위니브 강사 이호준.md"
+    },
+    {
       "basename": "20230508 estsoft - 김충환 회고강사특강 - 애자일 회고 - 매슬로우의 욕구계층 - 만다라트 과제있음",
       "path": "20230508 estsoft - 김충환 회고강사특강 - 애자일 회고 - 매슬로우의 욕구계층 - 만다라트 과제있음.md"
     },
     {
       "basename": "20230515 estsoft - 김충환 회고강사특강 - 3점조직 - 야생학습 - 자기계발은 복리 - 수파리 - 실수를 대하는 자세 {만다라트수정필요}",
       "path": "20230515 estsoft - 김충환 회고강사특강 - 3점조직 - 야생학습 - 자기계발은 복리 - 수파리 - 실수를 대하는 자세 {만다라트수정필요}.md"
-    },
-    {
-      "basename": "0090 Bucket Lists 🪣",
-      "path": "0000 Index 🔗/0090 Bucket Lists 🪣.md"
     },
     {
       "basename": "do-re-mi-fa-so-la-ti-do VS Done(Let's Get it)",
@@ -27,10 +107,6 @@
     {
       "basename": "만다라트",
       "path": "만다라트.canvas"
-    },
-    {
-      "basename": "0080 Scraps 📚",
-      "path": "0000 Index 🔗/0080 Scraps 📚.md"
     },
     {
       "basename": "믿음과 성장속도의 관계 {포프TV}",
@@ -69,10 +145,6 @@
       "path": "0000 Index 🔗/0014 Python 🐍.md"
     },
     {
-      "basename": "0012.1 ESTsoft 백엔드 개발자 부트캠프 오르미 1기 🙊",
-      "path": "0000 Index 🔗/0012.1 ESTsoft 백엔드 개발자 부트캠프 오르미 1기 🙊.md"
-    },
-    {
       "basename": "CSS",
       "path": "CSS.md"
     },
@@ -87,10 +159,6 @@
     {
       "basename": "20230520 pyscript에 대한 몇가지 견해가 충돌하는 것 같아서 한 줄 남긴다",
       "path": "20230520 pyscript에 대한 몇가지 견해가 충돌하는 것 같아서 한 줄 남긴다.md"
-    },
-    {
-      "basename": "ESTsoft_QR",
-      "path": "ESTsoft_QR.pdf"
     },
     {
       "basename": "The Shape of Infinity -- manifold garden",
@@ -127,74 +195,6 @@
     {
       "basename": "css - aspect-ratio를 사용하여 원하는 비율로 맞추기",
       "path": "css - aspect-ratio를 사용하여 원하는 비율로 맞추기.md"
-    },
-    {
-      "basename": "2023-05-18 Python 시험 있습니다 ⚠️",
-      "path": "2023-05-18 Python 시험 있습니다 ⚠️.md"
-    },
-    {
-      "basename": "공동집필 프로젝트 - estsoft",
-      "path": "공동집필 프로젝트 - estsoft.md"
-    },
-    {
-      "basename": "2023-05-20",
-      "path": "Daily Notes/2023-05-20.md"
-    },
-    {
-      "basename": "20230519 estsoft",
-      "path": "20230519 estsoft.md"
-    },
-    {
-      "basename": "bootstrap and tailwind",
-      "path": "bootstrap and tailwind.md"
-    },
-    {
-      "basename": "20230519 estsoft - python",
-      "path": "20230519 estsoft - python.md"
-    },
-    {
-      "basename": "vim 관련 꿀팁",
-      "path": "vim 관련 꿀팁.md"
-    },
-    {
-      "basename": "typing.Iterator",
-      "path": "typing.Iterator.md"
-    },
-    {
-      "basename": "typing.Callable",
-      "path": "typing.Callable.md"
-    },
-    {
-      "basename": "ESTsoft+백엔드+개발자+양성과정+시간표+('23.4.24+~+'23.9.5)+v.1",
-      "path": "ESTsoft+백엔드+개발자+양성과정+시간표+('23.4.24+~+'23.9.5)+v.1.pdf"
-    },
-    {
-      "basename": "deque in python",
-      "path": "deque in python.md"
-    },
-    {
-      "basename": "채움 HRD 📈",
-      "path": "채움 HRD 📈.md"
-    },
-    {
-      "basename": "bisect_left (python)",
-      "path": "bisect_left (python).md"
-    },
-    {
-      "basename": "lowerbound",
-      "path": "Export-d5cc1bf1-6e86-46bc-bbdc-5b72a3fe4463/INDEX 180a950a1d5d4144a89e0fa8c75ec0e8/lowerbound.md"
-    },
-    {
-      "basename": "Comparing result with enum in python",
-      "path": "Comparing result with enum in python.md"
-    },
-    {
-      "basename": "dataclasses python module",
-      "path": "dataclasses python module.md"
-    },
-    {
-      "basename": "20230517 estsoft - python - linked list - dataclass - typing Self cast type union - __getitem__ - slice.indices",
-      "path": "20230517 estsoft - python - linked list - dataclass - typing Self cast type union - __getitem__ - slice.indices.md"
     }
   ],
   "omittedPaths": [],

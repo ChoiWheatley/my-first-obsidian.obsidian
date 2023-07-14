@@ -1,5 +1,4 @@
 [
-  "remotely-save",
   "table-editor-obsidian",
   "dataview",
   "obsidian-excalidraw-plugin",
@@ -19,5 +18,6 @@
   "pane-relief",
   "darlal-switcher-plus",
   "obsidian-outliner",
-  "no-dupe-leaves"
+  "no-dupe-leaves",
+  "oz-clear-unused-images"
 ]
