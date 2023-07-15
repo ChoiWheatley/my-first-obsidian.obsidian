@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "conda cheatsheet",
-      "path": "docs/conda cheatsheet.md"
+      "basename": "0000 Index 🔗",
+      "path": "docs/0000 Index 🔗/0000 Index 🔗.md"
     },
     {
       "basename": "11번가 검색데이터 및 추천 개발 전환형 인턴",
       "path": "docs/11번가 검색데이터 및 추천 개발 전환형 인턴.md"
+    },
+    {
+      "basename": "1차 프로젝트 - estsoft",
+      "path": "docs/1차 프로젝트 - estsoft.md"
+    },
+    {
+      "basename": "conda cheatsheet",
+      "path": "docs/conda cheatsheet.md"
     },
     {
       "basename": "0010 Programming 👩‍💻",
@@ -51,10 +59,6 @@
     {
       "basename": "11602 카드게임",
       "path": "docs/11602 카드게임.md"
-    },
-    {
-      "basename": "0000 Index 🔗",
-      "path": "docs/0000 Index 🔗/0000 Index 🔗.md"
     },
     {
       "basename": "Readme",
@@ -195,10 +199,6 @@
     {
       "basename": "파이썬을 활용한 RESTful API 개발 기본(제목미정)",
       "path": "파이썬을 활용한 RESTful API 개발 기본(제목미정).md"
-    },
-    {
-      "basename": "파이썬 알고리즘 인터뷰 - 95가지 알고리즘 문제 풀이로 완성하는 코딩테스트",
-      "path": "파이썬 알고리즘 인터뷰 - 95가지 알고리즘 문제 풀이로 완성하는 코딩테스트.md"
     }
   ],
   "omittedPaths": [],
