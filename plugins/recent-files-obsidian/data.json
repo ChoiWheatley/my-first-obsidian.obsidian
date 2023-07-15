@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "estsoft 출결 QR",
+      "path": "assets/estsoft 출결 QR.png"
+    },
+    {
+      "basename": "0012.1 ESTsoft 백엔드 개발자 부트캠프 오르미 1기 🙊",
+      "path": "docs/0000 Index 🔗/0012.1 ESTsoft 백엔드 개발자 부트캠프 오르미 1기 🙊.md"
+    },
+    {
+      "basename": "2023-07-15",
+      "path": "docs/Daily Notes/2023-07-15.md"
+    },
+    {
       "basename": "Obsidian으로 블로그 만들기",
       "path": "docs/Obsidian으로 블로그 만들기.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "[[20230515",
       "path": "[[20230515.md"
-    },
-    {
-      "basename": "두 번째 뇌 만들기",
-      "path": "두 번째 뇌 만들기.md"
-    },
-    {
-      "basename": "20230522 estsoft 김충환, tailwind",
-      "path": "20230522 estsoft 김충환, tailwind.md"
-    },
-    {
-      "basename": "RESTful API란 무엇인가",
-      "path": "RESTful API란 무엇인가.md"
     }
   ],
   "omittedPaths": [],
