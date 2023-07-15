@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "estsoft 출결 QR",
-      "path": "assets/estsoft 출결 QR.png"
+      "basename": "ManyToManyField {django}",
+      "path": "docs/ManyToManyField {django}.md"
+    },
+    {
+      "basename": "20230707 estsoft architecture 계성혁",
+      "path": "docs/20230707 estsoft architecture 계성혁.md"
+    },
+    {
+      "basename": "Pasted image 20230707174402",
+      "path": "docs/assets/Pasted image 20230707174402.png"
+    },
+    {
+      "basename": "Pasted image 20230707174433",
+      "path": "docs/assets/Pasted image 20230707174433.png"
+    },
+    {
+      "basename": "2023-07-15",
+      "path": "docs/Daily Notes/2023-07-15.md"
+    },
+    {
+      "basename": "Pasted image 20230715224837",
+      "path": "assets/Pasted image 20230715224837.png"
+    },
+    {
+      "basename": "miracle-evening",
+      "path": "assets/miracle-evening.png"
     },
     {
       "basename": "0012.1 ESTsoft 백엔드 개발자 부트캠프 오르미 1기 🙊",
       "path": "docs/0000 Index 🔗/0012.1 ESTsoft 백엔드 개발자 부트캠프 오르미 1기 🙊.md"
     },
     {
-      "basename": "2023-07-15",
-      "path": "docs/Daily Notes/2023-07-15.md"
+      "basename": "estsoft 출결 QR",
+      "path": "assets/estsoft 출결 QR.png"
     },
     {
       "basename": "Obsidian으로 블로그 만들기",
@@ -175,30 +199,6 @@
     {
       "basename": "20230515 estsoft - 김충환 회고강사특강 - 3점조직 - 야생학습 - 자기계발은 복리 - 수파리 - 실수를 대하는 자세 {만다라트수정필요}",
       "path": "20230515 estsoft - 김충환 회고강사특강 - 3점조직 - 야생학습 - 자기계발은 복리 - 수파리 - 실수를 대하는 자세 {만다라트수정필요}.md"
-    },
-    {
-      "basename": "do-re-mi-fa-so-la-ti-do VS Done(Let's Get it)",
-      "path": "do-re-mi-fa-so-la-ti-do VS Done(Let's Get it).md"
-    },
-    {
-      "basename": "0005 Archieve 💾",
-      "path": "0000 Index 🔗/0005 Archieve 💾.md"
-    },
-    {
-      "basename": "만다라트",
-      "path": "만다라트.canvas"
-    },
-    {
-      "basename": "믿음과 성장속도의 관계 {포프TV}",
-      "path": "믿음과 성장속도의 관계 {포프TV}.md"
-    },
-    {
-      "basename": "20230522 김충환 회고강사특강",
-      "path": "20230522 김충환 회고강사특강.md"
-    },
-    {
-      "basename": "[[20230515",
-      "path": "[[20230515.md"
     }
   ],
   "omittedPaths": [],
