@@ -98,5 +98,11 @@
       "key": "O"
     }
   ],
-  "switcher:open": []
+  "switcher:open": [],
+  "obsidian-git:commit": [
+    {
+      "modifiers": [],
+      "key": "F7"
+    }
+  ]
 }

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Obsidian으로 블로그 만들기",
+      "path": "docs/Obsidian으로 블로그 만들기.md"
+    },
+    {
       "basename": "0000 Index 🔗",
       "path": "docs/0000 Index 🔗/0000 Index 🔗.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "RESTful API란 무엇인가",
       "path": "RESTful API란 무엇인가.md"
-    },
-    {
-      "basename": "파이썬을 활용한 RESTful API 개발 기본(제목미정)",
-      "path": "파이썬을 활용한 RESTful API 개발 기본(제목미정).md"
     }
   ],
   "omittedPaths": [],
