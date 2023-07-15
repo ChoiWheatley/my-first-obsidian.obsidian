@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Multiple Inheritance and mro builtin function",
+      "path": "docs/Multiple Inheritance and mro builtin function.md"
+    },
+    {
+      "basename": "다중상속.excalidraw",
+      "path": "docs/Resources/Excalidraw/다중상속.excalidraw.md"
+    },
+    {
       "basename": "ManyToManyField {django}",
       "path": "docs/ManyToManyField {django}.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "20230424 백엔드 개발의 정상을 향해 어떤 설계를 할 수 있을까 + 위니브 강사 이호준",
       "path": "20230424 백엔드 개발의 정상을 향해 어떤 설계를 할 수 있을까 + 위니브 강사 이호준.md"
-    },
-    {
-      "basename": "20230508 estsoft - 김충환 회고강사특강 - 애자일 회고 - 매슬로우의 욕구계층 - 만다라트 과제있음",
-      "path": "20230508 estsoft - 김충환 회고강사특강 - 애자일 회고 - 매슬로우의 욕구계층 - 만다라트 과제있음.md"
-    },
-    {
-      "basename": "20230515 estsoft - 김충환 회고강사특강 - 3점조직 - 야생학습 - 자기계발은 복리 - 수파리 - 실수를 대하는 자세 {만다라트수정필요}",
-      "path": "20230515 estsoft - 김충환 회고강사특강 - 3점조직 - 야생학습 - 자기계발은 복리 - 수파리 - 실수를 대하는 자세 {만다라트수정필요}.md"
     }
   ],
   "omittedPaths": [],
