@@ -43,5 +43,17 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": []
+  "treeData": [
+    {
+      "id": "8978189f4846914e",
+      "parent": 0,
+      "droppable": true,
+      "text": "mkdocs-roamlinks-plugin/mkdocs_roamlinks_plugin/plugin.py at master · Jackiexiao/mkdocs-roamlinks-plugin · GitHub",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
 }

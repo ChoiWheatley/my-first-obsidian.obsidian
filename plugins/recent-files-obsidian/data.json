@@ -1,20 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Multiple Inheritance and mro builtin function",
-      "path": "docs/Multiple Inheritance and mro builtin function.md"
+      "basename": "플로이드 워셜 알고리즘 - 그래프 모든 정점에 ad08359b30964c31a194cd5af80c8628",
+      "path": "Export-d5cc1bf1-6e86-46bc-bbdc-5b72a3fe4463/INDEX 180a950a1d5d4144a89e0fa8c75ec0e8/플로이드 워셜 알고리즘 - 그래프 모든 정점에 ad08359b30964c31a194cd5af80c8628.md"
     },
     {
-      "basename": "다중상속.excalidraw",
-      "path": "docs/Resources/Excalidraw/다중상속.excalidraw.md"
+      "basename": "obsidian-support {supports excalidraw, wikilinks}",
+      "path": "docs/obsidian-support {supports excalidraw, wikilinks}.md"
     },
     {
-      "basename": "2023-02-28",
-      "path": "docs/2023-02-28.md"
+      "basename": "mkdocs",
+      "path": "docs/mkdocs.md"
     },
     {
       "basename": "0000 Index 🔗",
       "path": "docs/0000 Index 🔗/0000 Index 🔗.md"
+    },
+    {
+      "basename": "Multiple Inheritance and mro builtin function",
+      "path": "docs/Multiple Inheritance and mro builtin function.md"
+    },
+    {
+      "basename": "FL4K은신잠행 스킬트리",
+      "path": "docs/FL4K은신잠행 스킬트리.md"
+    },
+    {
+      "basename": "RESTful API란 무엇인가 -- web, resources, osi 7layers",
+      "path": "docs/RESTful API란 무엇인가 -- web, resources, osi 7layers.md"
+    },
+    {
+      "basename": "fwer23",
+      "path": "assets/fwer23.png"
+    },
+    {
+      "basename": "Pasted image 20230209012343",
+      "path": "assets/Pasted image 20230209012343.png"
+    },
+    {
+      "basename": "45674574af67x6",
+      "path": "assets/45674574af67x6.png"
+    },
+    {
+      "basename": "2023-02-28",
+      "path": "docs/2023-02-28.md"
     },
     {
       "basename": "20230707 estsoft architecture 계성혁",
@@ -34,15 +62,11 @@
     },
     {
       "basename": "Pasted image 20230707174402",
-      "path": "docs/assets/Pasted image 20230707174402.png"
+      "path": "assets/Pasted image 20230707174402.png"
     },
     {
       "basename": "Pasted image 20230707174433",
-      "path": "docs/assets/Pasted image 20230707174433.png"
-    },
-    {
-      "basename": "2023-07-15",
-      "path": "docs/Daily Notes/2023-07-15.md"
+      "path": "assets/Pasted image 20230707174433.png"
     },
     {
       "basename": "Pasted image 20230715224837",
@@ -83,18 +107,6 @@
     {
       "basename": "2023-05-18 공부방",
       "path": "docs/2023-05-18 공부방.md"
-    },
-    {
-      "basename": "45674574af67x6",
-      "path": "assets/45674574af67x6.png"
-    },
-    {
-      "basename": "TP-dailynotes",
-      "path": "docs/Resources/Templates/TP-dailynotes.md"
-    },
-    {
-      "basename": "TP-timestamp",
-      "path": "docs/Resources/Templates/TP-timestamp.md"
     },
     {
       "basename": "0013.2 Crates 🦀",
@@ -179,26 +191,6 @@
     {
       "basename": "0013.4 Rust 언어를 활용한 프로젝트는 여기에 🦀",
       "path": "0013.4 Rust 언어를 활용한 프로젝트는 여기에 🦀.md"
-    },
-    {
-      "basename": "Django Debug Toolbar",
-      "path": "Django Debug Toolbar.md"
-    },
-    {
-      "basename": "2023-07-12",
-      "path": "Daily Notes/2023-07-12.md"
-    },
-    {
-      "basename": "1차 프로젝트 - estsoft",
-      "path": "1차 프로젝트 - estsoft.md"
-    },
-    {
-      "basename": "No. 25 중간값 구하기",
-      "path": "No. 25 중간값 구하기.md"
-    },
-    {
-      "basename": "2023-04-23송도 해돚이공원 5바퀴 == 7.67km 페이스 7분대 갈때 걸어가고 올때 걸어오고 총 21.05km",
-      "path": "2023-04-23송도 해돚이공원 5바퀴 == 7.67km 페이스 7분대 갈때 걸어가고 올때 걸어오고 총 21.05km.md"
     }
   ],
   "omittedPaths": [],

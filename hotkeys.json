@@ -99,7 +99,7 @@
     }
   ],
   "switcher:open": [],
-  "obsidian-git:commit": [
+  "obsidian-git:push": [
     {
       "modifiers": [],
       "key": "F7"

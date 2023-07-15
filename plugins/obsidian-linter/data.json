@@ -241,7 +241,7 @@
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [
     "assets",
-    "docs/Resources",
+    "Resources",
     "",
     ""
   ],
