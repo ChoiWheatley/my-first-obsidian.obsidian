@@ -1,16 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "공동집필 프로젝트 - estsoft 📕",
-      "path": "docs/공동집필 프로젝트 - estsoft 📕.md"
+      "basename": "11번가 검색데이터 및 추천 개발 전환형 인턴",
+      "path": "docs/11번가 검색데이터 및 추천 개발 전환형 인턴.md"
     },
     {
       "basename": "0010 Programming 👩‍💻",
       "path": "docs/0000 Index 🔗/0010 Programming 👩‍💻.md"
     },
     {
+      "basename": "2023-05-18 공부방",
+      "path": "docs/2023-05-18 공부방.md"
+    },
+    {
+      "basename": "45674574af67x6",
+      "path": "assets/45674574af67x6.png"
+    },
+    {
+      "basename": "TP-dailynotes",
+      "path": "docs/Resources/Templates/TP-dailynotes.md"
+    },
+    {
+      "basename": "TP-timestamp",
+      "path": "docs/Resources/Templates/TP-timestamp.md"
+    },
+    {
+      "basename": "0013.2 Crates 🦀",
+      "path": "docs/0013.2 Crates 🦀.md"
+    },
+    {
+      "basename": "3차원 농부",
+      "path": "docs/3차원 농부.md"
+    },
+    {
+      "basename": "2의 보수법",
+      "path": "docs/2의 보수법.md"
+    },
+    {
+      "basename": "`User`를 커스텀 하고싶으면, `User`말고도 다른 부분의 코드도 함께 변경해야 한다",
+      "path": "docs/`User`를 커스텀 하고싶으면, `User`말고도 다른 부분의 코드도 함께 변경해야 한다.md"
+    },
+    {
+      "basename": "(right) under (one's) (very) nose",
+      "path": "docs/(right) under (one's) (very) nose.md"
+    },
+    {
+      "basename": "11602 카드게임",
+      "path": "docs/11602 카드게임.md"
+    },
+    {
       "basename": "0000 Index 🔗",
       "path": "docs/0000 Index 🔗/0000 Index 🔗.md"
+    },
+    {
+      "basename": "Readme",
+      "path": "docs/Readme.md"
+    },
+    {
+      "basename": "공동집필 프로젝트 - estsoft 📕",
+      "path": "docs/공동집필 프로젝트 - estsoft 📕.md"
     },
     {
       "basename": "Pending ⌛",
@@ -151,54 +199,6 @@
     {
       "basename": "0014 Python 🐍",
       "path": "0000 Index 🔗/0014 Python 🐍.md"
-    },
-    {
-      "basename": "CSS",
-      "path": "CSS.md"
-    },
-    {
-      "basename": "20230522 Tailwind",
-      "path": "20230522 Tailwind.md"
-    },
-    {
-      "basename": "20230515 estsoft - 김충환 회고강사특강 - 3점조직 - 야생학습 - 자기계발은 복리 - 수파리 - 실수를 대하는 자세",
-      "path": "20230515 estsoft - 김충환 회고강사특강 - 3점조직 - 야생학습 - 자기계발은 복리 - 수파리 - 실수를 대하는 자세.md"
-    },
-    {
-      "basename": "20230520 pyscript에 대한 몇가지 견해가 충돌하는 것 같아서 한 줄 남긴다",
-      "path": "20230520 pyscript에 대한 몇가지 견해가 충돌하는 것 같아서 한 줄 남긴다.md"
-    },
-    {
-      "basename": "The Shape of Infinity -- manifold garden",
-      "path": "The Shape of Infinity -- manifold garden.md"
-    },
-    {
-      "basename": "closures, factory functions (python)",
-      "path": "closures, factory functions (python).md"
-    },
-    {
-      "basename": "클래스 - python",
-      "path": "클래스 - python.md"
-    },
-    {
-      "basename": "decorator - python",
-      "path": "decorator - python.md"
-    },
-    {
-      "basename": "2023-05-11 estsoft - python - inheritance, linked-list, method-overriding, MRO, private-member, iterator, generator, module, file-io, excel",
-      "path": "2023-05-11 estsoft - python - inheritance, linked-list, method-overriding, MRO, private-member, iterator, generator, module, file-io, excel.md"
-    },
-    {
-      "basename": "flat map in python",
-      "path": "flat map in python.md"
-    },
-    {
-      "basename": "LIS 가장 긴 증가하는 부분수열 d61b26f5619a4ea1b0412155535ec812",
-      "path": "Export-d5cc1bf1-6e86-46bc-bbdc-5b72a3fe4463/INDEX 180a950a1d5d4144a89e0fa8c75ec0e8/LIS 가장 긴 증가하는 부분수열 d61b26f5619a4ea1b0412155535ec812.md"
-    },
-    {
-      "basename": "20230518 estsoft - python - tree -- LIS -- selection sort -- insertion sort -- merge sort -- quick sort",
-      "path": "20230518 estsoft - python - tree -- LIS -- selection sort -- insertion sort -- merge sort -- quick sort.md"
     }
   ],
   "omittedPaths": [],
