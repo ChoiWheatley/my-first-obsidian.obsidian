@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Pending ⌛",
-      "path": "0000 Index 🔗/Pending ⌛.canvas"
+      "basename": "공동집필 프로젝트 - estsoft 📕",
+      "path": "docs/공동집필 프로젝트 - estsoft 📕.md"
     },
     {
-      "basename": "ESTsoft_QR",
-      "path": "ESTsoft_QR.pdf"
+      "basename": "0010 Programming 👩‍💻",
+      "path": "docs/0000 Index 🔗/0010 Programming 👩‍💻.md"
+    },
+    {
+      "basename": "0000 Index 🔗",
+      "path": "docs/0000 Index 🔗/0000 Index 🔗.md"
+    },
+    {
+      "basename": "Pending ⌛",
+      "path": "0000 Index 🔗/Pending ⌛.canvas"
     },
     {
       "basename": "0012.1 ESTsoft 백엔드 개발자 부트캠프 오르미 1기 🙊",
@@ -191,10 +199,6 @@
     {
       "basename": "20230518 estsoft - python - tree -- LIS -- selection sort -- insertion sort -- merge sort -- quick sort",
       "path": "20230518 estsoft - python - tree -- LIS -- selection sort -- insertion sort -- merge sort -- quick sort.md"
-    },
-    {
-      "basename": "css - aspect-ratio를 사용하여 원하는 비율로 맞추기",
-      "path": "css - aspect-ratio를 사용하여 원하는 비율로 맞추기.md"
     }
   ],
   "omittedPaths": [],
