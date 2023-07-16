@@ -3,4 +3,5 @@ plugins/surfing/data.json
 graph.json
 appearance.json
 workspace.json
-**/*/data.json
+plugins/surfing/data.json
+plugins/recent-files-obsidian/data.json
