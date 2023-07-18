@@ -104,5 +104,14 @@
       "modifiers": [],
       "key": "F7"
     }
-  ]
+  ],
+  "tab-switcher:open-switcher-for-tabs": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "workspace:next-tab": []
 }
