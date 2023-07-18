@@ -113,5 +113,12 @@
       "key": "Tab"
     }
   ],
-  "workspace:next-tab": []
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "PageDown"
+    }
+  ]
 }
