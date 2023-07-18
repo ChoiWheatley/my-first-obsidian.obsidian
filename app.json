@@ -3,7 +3,7 @@
   "alwaysUpdateLinks": true,
   "showFrontmatter": true,
   "autoPairBrackets": true,
-  "autoPairMarkdown": false,
+  "autoPairMarkdown": true,
   "useTab": true,
   "readableLineLength": false,
   "vimMode": true,
