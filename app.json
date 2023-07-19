@@ -7,7 +7,7 @@
   "useTab": true,
   "readableLineLength": false,
   "vimMode": true,
-  "attachmentFolderPath": "assets",
+  "attachmentFolderPath": "docs/assets",
   "trashOption": "system",
   "newFileLocation": "folder",
   "newFileFolderPath": "docs"
