@@ -8,14 +8,14 @@
   "enablePointer": false,
   "enableTimeBar": false,
   "theme": "black",
-  "highlightTheme": "monokai",
-  "transition": "slide",
-  "transitionSpeed": "fast",
-  "controls": false,
+  "highlightTheme": "zenburn",
+  "transition": "none",
+  "transitionSpeed": "default",
+  "controls": true,
   "progress": true,
   "slideNumber": false,
   "showGrid": false,
   "autoComplete": "inPreview",
-  "paneMode": "tab",
-  "motm": "2023-07-21T12:21:27.824Z"
+  "paneMode": "split",
+  "motm": "2023-07-21T15:35:49.863Z"
 }
