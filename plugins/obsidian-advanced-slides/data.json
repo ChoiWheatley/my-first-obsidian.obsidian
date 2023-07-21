@@ -10,12 +10,12 @@
   "theme": "black",
   "highlightTheme": "zenburn",
   "transition": "slide",
-  "transitionSpeed": "default",
+  "transitionSpeed": "fast",
   "controls": true,
   "progress": true,
   "slideNumber": false,
   "showGrid": false,
   "autoComplete": "inPreview",
-  "paneMode": "split",
+  "paneMode": "tab",
   "motm": "2023-07-21T12:21:27.824Z"
 }

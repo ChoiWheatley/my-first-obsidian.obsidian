@@ -94,7 +94,7 @@
       "ignore-words": ""
     },
     "convert-bullet-list-markers": {
-      "enabled": true
+      "enabled": false
     },
     "emphasis-style": {
       "enabled": false,
@@ -131,7 +131,7 @@
       "enabled": true
     },
     "unordered-list-style": {
-      "enabled": true,
+      "enabled": false,
       "list-style": "-"
     },
     "compact-yaml": {
