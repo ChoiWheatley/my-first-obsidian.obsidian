@@ -20,5 +20,6 @@
   "templater-obsidian",
   "waypoint",
   "obsidian-advanced-slides",
-  "obsidian-linter"
+  "obsidian-linter",
+  "file-explorer-note-count"
 ]
