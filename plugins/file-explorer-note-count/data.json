@@ -1,8 +1,6 @@
 {
   "showAllNumbers": true,
-  "filterList": [
-    "md"
-  ],
+  "filterList": [],
   "blacklist": false,
-  "filterFolderNote": true
+  "filterFolderNote": false
 }
