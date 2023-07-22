@@ -7,7 +7,6 @@
   "dataview",
   "obsidian-excalidraw-plugin",
   "obsidian-footnotes",
-  "obsidian-linter",
   "no-dupe-leaves",
   "note-refactor-obsidian",
   "obsidian-git",
@@ -20,5 +19,6 @@
   "tag-wrangler",
   "templater-obsidian",
   "waypoint",
-  "obsidian-advanced-slides"
+  "obsidian-advanced-slides",
+  "obsidian-linter"
 ]

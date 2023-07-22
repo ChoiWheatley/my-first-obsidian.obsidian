@@ -74,7 +74,7 @@
       "start-at-h2": false
     },
     "headings-start-line": {
-      "enabled": true
+      "enabled": false
     },
     "remove-trailing-punctuation-in-heading": {
       "enabled": false,
