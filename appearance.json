@@ -6,7 +6,7 @@
   "showViewHeader": true,
   "cssTheme": "Things",
   "baseFontSize": 14,
-  "theme": "obsidian",
+  "theme": "moonstone",
   "interfaceFontFamily": "Segoe UI,SF Pro Display,나눔바른고딕",
   "enabledCssSnippets": [
     "obsidian"
