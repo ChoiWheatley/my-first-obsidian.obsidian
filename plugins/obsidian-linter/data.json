@@ -104,8 +104,8 @@
       "enabled": true
     },
     "ordered-list-style": {
-      "enabled": false,
-      "number-style": "lazy",
+      "enabled": true,
+      "number-style": "ascending",
       "list-end-style": "."
     },
     "proper-ellipsis": {
