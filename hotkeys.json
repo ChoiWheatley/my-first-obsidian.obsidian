@@ -103,6 +103,12 @@
         "Mod"
       ],
       "key": "Tab"
+    },
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Tab"
     }
   ],
   "workspace:next-tab": [
@@ -111,6 +117,12 @@
         "Mod"
       ],
       "key": "PageDown"
+    },
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Tab"
     }
   ],
   "command-palette:open": [
@@ -129,5 +141,6 @@
       ],
       "key": "P"
     }
-  ]
+  ],
+  "obsidian-advanced-slides:open-advanced-slides-preview": []
 }
