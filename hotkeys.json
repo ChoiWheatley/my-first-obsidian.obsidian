@@ -111,20 +111,7 @@
       "key": "Tab"
     }
   ],
-  "workspace:next-tab": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "PageDown"
-    },
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "Tab"
-    }
-  ],
+  "workspace:next-tab": [],
   "command-palette:open": [
     {
       "modifiers": [
@@ -142,5 +129,23 @@
       "key": "P"
     }
   ],
-  "obsidian-advanced-slides:open-advanced-slides-preview": []
+  "obsidian-advanced-slides:open-advanced-slides-preview": [],
+  "cycle-through-panes:focus-on-last-active-pane-reverse": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "cycle-through-panes:focus-on-last-active-pane": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "workspace:previous-tab": []
 }
