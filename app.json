@@ -8,7 +8,7 @@
   "readableLineLength": false,
   "vimMode": true,
   "attachmentFolderPath": "docs/assets",
-  "trashOption": "system",
+  "trashOption": "none",
   "newFileLocation": "folder",
   "newFileFolderPath": "docs",
   "spellcheck": false
