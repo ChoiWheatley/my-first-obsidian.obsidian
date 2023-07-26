@@ -4,8 +4,8 @@
   "monospaceFontFamily": "Hack,D2Coding",
   "translucency": false,
   "showViewHeader": true,
-  "cssTheme": "",
-  "baseFontSize": 16,
+  "cssTheme": "Things",
+  "baseFontSize": 14,
   "theme": "moonstone",
   "interfaceFontFamily": "Segoe UI,SF Pro Display,나눔바른고딕",
   "enabledCssSnippets": [
