@@ -4,7 +4,7 @@
   "horizontalToVertical": false,
   "hideButtons": false,
   "smallTitle": false,
-  "compactTitle": false,
+  "compactTitle": true,
   "tabNumbering": true,
   "tabUnderline": false,
   "headerHeight": 29

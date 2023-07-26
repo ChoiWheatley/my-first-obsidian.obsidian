@@ -111,14 +111,7 @@
       "key": "Tab"
     }
   ],
-  "workspace:next-tab": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "PageDown"
-    }
-  ],
+  "workspace:next-tab": [],
   "command-palette:open": [
     {
       "modifiers": [
