@@ -2,13 +2,14 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "showFrontmatter": true,
-  "autoPairBrackets": true,
-  "autoPairMarkdown": true,
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
   "useTab": true,
   "readableLineLength": false,
   "vimMode": true,
   "attachmentFolderPath": "docs/assets",
   "trashOption": "system",
   "newFileLocation": "folder",
-  "newFileFolderPath": "docs"
+  "newFileFolderPath": "docs",
+  "spellcheck": false
 }
