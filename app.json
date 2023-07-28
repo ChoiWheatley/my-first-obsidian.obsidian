@@ -2,7 +2,7 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "showFrontmatter": true,
-  "autoPairBrackets": false,
+  "autoPairBrackets": true,
   "autoPairMarkdown": false,
   "useTab": true,
   "readableLineLength": false,
