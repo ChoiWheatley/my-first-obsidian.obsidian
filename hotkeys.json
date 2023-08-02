@@ -111,7 +111,14 @@
       "key": "Tab"
     }
   ],
-  "workspace:next-tab": [],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "PageDown"
+    }
+  ],
   "command-palette:open": [
     {
       "modifiers": [
@@ -147,5 +154,12 @@
       "key": "Tab"
     }
   ],
-  "workspace:previous-tab": []
+  "workspace:previous-tab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "PageUp"
+    }
+  ]
 }
