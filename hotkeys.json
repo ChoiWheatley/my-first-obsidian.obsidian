@@ -137,29 +137,29 @@
     }
   ],
   "obsidian-advanced-slides:open-advanced-slides-preview": [],
-  "cycle-through-panes:focus-on-last-active-pane-reverse": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Tab"
-    }
-  ],
-  "cycle-through-panes:focus-on-last-active-pane": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "Tab"
-    }
-  ],
   "workspace:previous-tab": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "PageUp"
+    }
+  ],
+  "cycle-through-panes:focus-on-last-active-pane-reverse": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "note-refactor-obsidian:app:extract-selection-first-line": [],
+  "cycle-through-panes:focus-on-last-active-pane": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "`"
     }
   ]
 }
