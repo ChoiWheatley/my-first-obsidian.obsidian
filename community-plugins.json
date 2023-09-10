@@ -12,6 +12,13 @@
   "no-dupe-leaves",
   "note-refactor-obsidian",
   "obsidian-git",
-  "obsidian-outliner",
-  "darlal-switcher-plus"
+  "darlal-switcher-plus",
+  "settings-search",
+  "simple-embeds",
+  "obsidian-style-settings",
+  "surfing",
+  "cycle-through-panes",
+  "tag-wrangler",
+  "templater-obsidian",
+  "waypoint"
 ]
