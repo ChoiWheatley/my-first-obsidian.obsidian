@@ -5201,7 +5201,7 @@
             "containerId": null,
             "originalText": "0 .. 1",
             "lineHeight": 1.25,
-            "baseline": 14
+            "baseline": 13
           }
         ],
         "id": "p6cLBMdNVAQqL3gEqMBQN",
@@ -5247,7 +5247,7 @@
             "containerId": null,
             "originalText": "1 .. n",
             "lineHeight": 1.25,
-            "baseline": 14
+            "baseline": 13
           }
         ],
         "id": "YF7KQkyh773K1Y0DjXsUg",
@@ -5293,7 +5293,7 @@
             "containerId": null,
             "originalText": "n .. m",
             "lineHeight": 1.25,
-            "baseline": 14
+            "baseline": 13
           }
         ],
         "id": "F3co044vizFif-ajg7Sct",
