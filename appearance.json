@@ -5,7 +5,7 @@
   "translucency": false,
   "showViewHeader": true,
   "cssTheme": "Things",
-  "baseFontSize": 22,
+  "baseFontSize": 20,
   "theme": "moonstone",
   "interfaceFontFamily": "Segoe UI,SF Pro Display,나눔바른고딕",
   "enabledCssSnippets": [
