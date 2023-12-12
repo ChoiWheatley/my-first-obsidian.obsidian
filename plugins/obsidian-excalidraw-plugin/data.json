@@ -11569,7 +11569,7 @@
             "containerId": null,
             "originalText": "K",
             "lineHeight": 1.1723115220561968,
-            "baseline": 12
+            "baseline": 13
           },
           {
             "type": "line",
@@ -36745,7 +36745,7 @@
             "containerId": null,
             "originalText": "9",
             "lineHeight": 1.1875427075615734,
-            "baseline": 28
+            "baseline": 27
           }
         ],
         "id": "EdjPrLaWQkPVii-WHH4nk",
@@ -36826,7 +36826,7 @@
             "containerId": null,
             "originalText": "</>",
             "lineHeight": 1.0771996604603333,
-            "baseline": 7
+            "baseline": 6
           },
           {
             "type": "rectangle",
@@ -39461,7 +39461,7 @@
             "containerId": null,
             "originalText": "</>",
             "lineHeight": 1.111784166841932,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "line",
@@ -59409,7 +59409,7 @@
             "containerId": null,
             "originalText": "A",
             "lineHeight": 1.1853746295984429,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "line",
@@ -108497,7 +108497,7 @@
             "containerId": null,
             "originalText": "AWS account",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -108749,7 +108749,7 @@
             "containerId": null,
             "originalText": "Region",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 17
           },
           {
             "type": "rectangle",
