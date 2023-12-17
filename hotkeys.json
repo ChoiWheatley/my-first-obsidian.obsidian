@@ -49,6 +49,13 @@
         "Mod"
       ],
       "key": "J"
+    },
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "B"
     }
   ],
   "editor:toggle-bold": [],
