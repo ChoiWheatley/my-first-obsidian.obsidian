@@ -1847,7 +1847,7 @@
             "containerId": null,
             "originalText": "EMR",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -2858,7 +2858,7 @@
             "containerId": null,
             "originalText": "Kinesis",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "VNQOFLXM1J3eJ4hETyzI0",
@@ -3527,7 +3527,7 @@
             "containerId": null,
             "originalText": "Kinesis \nData Firehose",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           }
         ],
         "id": "yrQtFO03ZTlfBXSnjpGBO",
@@ -4038,7 +4038,7 @@
             "containerId": null,
             "originalText": "Kinesis \nVideo Streams",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           }
         ],
         "id": "91zDESXIiQuyjYnsUtvaU",
@@ -4085,7 +4085,7 @@
             "containerId": null,
             "originalText": "Kinesis \nData Analytics",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "rectangle",
@@ -5427,7 +5427,7 @@
             "containerId": null,
             "originalText": "Kinesis \nData Streams",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           }
         ],
         "id": "SaaTtpn8C4dAJc3uhbvHt",
@@ -5474,7 +5474,7 @@
             "containerId": null,
             "originalText": "CloudSearch",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -5774,7 +5774,7 @@
             "containerId": null,
             "originalText": "Athena",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -6177,7 +6177,7 @@
             "containerId": null,
             "originalText": "Glue",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -6677,7 +6677,7 @@
             "containerId": null,
             "originalText": "Crawler",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -7711,7 +7711,7 @@
             "containerId": null,
             "originalText": "DataCatalog",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -8194,7 +8194,7 @@
             "containerId": null,
             "originalText": "Elastic Views",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -8810,7 +8810,7 @@
             "containerId": null,
             "originalText": "Lake Formation",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -9644,7 +9644,7 @@
             "containerId": null,
             "originalText": "Redshift",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -10136,7 +10136,7 @@
             "containerId": null,
             "originalText": "QuickSight",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -10581,7 +10581,7 @@
             "containerId": null,
             "originalText": "Data Pipeline",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -11258,7 +11258,7 @@
             "containerId": null,
             "originalText": "Managed Streaming\nfor Apache Kafka",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "rectangle",
@@ -11569,7 +11569,7 @@
             "containerId": null,
             "originalText": "K",
             "lineHeight": 1.1723115220561968,
-            "baseline": 12
+            "baseline": 13
           },
           {
             "type": "line",
@@ -11880,7 +11880,7 @@
             "containerId": null,
             "originalText": "Data Exchange",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -12430,7 +12430,7 @@
             "containerId": null,
             "originalText": "Glue DataBrew",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -12964,7 +12964,7 @@
             "containerId": null,
             "originalText": "OpenSearch \nService",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "rectangle",
@@ -14113,7 +14113,7 @@
             "containerId": null,
             "originalText": "SNS",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "4cGi2CN_g6J8XiD8wxVft",
@@ -14769,7 +14769,7 @@
             "containerId": null,
             "originalText": "SQS",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "Oh_ux_q4QUG_SbdunvQa9",
@@ -14816,7 +14816,7 @@
             "containerId": null,
             "originalText": "Amazon MQ",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -16302,7 +16302,7 @@
             "containerId": null,
             "originalText": "AppSync",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "nM-JyJ1fHyHM2eATz46Mg",
@@ -16967,7 +16967,7 @@
             "containerId": null,
             "originalText": "Step Functions",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "qhwDGYU-UAXt2VXlMPKIG",
@@ -17526,7 +17526,7 @@
             "containerId": null,
             "originalText": "EventBridge",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "E0SjCmFXETQ42t9XUnKnf",
@@ -17573,7 +17573,7 @@
             "containerId": null,
             "originalText": "Managed Workflows\nfor Apache Airflow",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "rectangle",
@@ -17960,7 +17960,7 @@
             "containerId": null,
             "originalText": "AppFlow",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -18538,7 +18538,7 @@
             "containerId": null,
             "originalText": "API Gateway",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "TeYPwo3dnTQktSMlOTY0y",
@@ -18866,7 +18866,7 @@
             "containerId": null,
             "originalText": "Endpoint",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "WvM_ZIQpaxr4Qn5AOS1_I",
@@ -19495,7 +19495,7 @@
             "containerId": null,
             "originalText": "SES",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "XhMA24VKJHiHzLr8NPQgJ",
@@ -19542,7 +19542,7 @@
             "containerId": null,
             "originalText": "Alexa for\nBusiness",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "rectangle",
@@ -19977,7 +19977,7 @@
             "containerId": null,
             "originalText": "Chime",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -20562,7 +20562,7 @@
             "containerId": null,
             "originalText": "Budgets",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -20953,7 +20953,7 @@
             "containerId": null,
             "originalText": "Cost & Usage\nReport",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "rectangle",
@@ -21648,7 +21648,7 @@
             "containerId": null,
             "originalText": "Cost Explorer",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -22666,7 +22666,7 @@
             "containerId": null,
             "originalText": "EC2",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "x-qV-aG1-hOGvJ0XUFbDk",
@@ -22713,7 +22713,7 @@
             "containerId": null,
             "originalText": "Elastic \nBeanstalk",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "rectangle",
@@ -23313,7 +23313,7 @@
             "containerId": null,
             "originalText": "Lambda",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "4YBMIUCRrPPPTaKBqdduz",
@@ -23360,7 +23360,7 @@
             "containerId": null,
             "originalText": "Outposts",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -23914,7 +23914,7 @@
             "containerId": null,
             "originalText": "EC2 Image\nBuilder",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "rectangle",
@@ -24352,7 +24352,7 @@
             "containerId": null,
             "originalText": "App Runner",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -24686,7 +24686,7 @@
             "containerId": null,
             "originalText": "Batch",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -25799,7 +25799,7 @@
             "containerId": null,
             "originalText": "Connect",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "q-j8hf6ggppU4tQVjx5LR",
@@ -25848,7 +25848,7 @@
             "containerId": null,
             "originalText": "EKS",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -26070,7 +26070,7 @@
             "containerId": null,
             "originalText": "K",
             "lineHeight": 1.1582157100906016,
-            "baseline": 17
+            "baseline": 18
           }
         ],
         "id": "g4dcyC-jNqdtV30cOELmm",
@@ -26282,7 +26282,7 @@
             "containerId": null,
             "originalText": "ECR",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "Yk_ltNUhL2BkhyJ0HvSLX",
@@ -26510,7 +26510,7 @@
             "containerId": null,
             "originalText": "ECS",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "xpCH0nfRYnZo_IkTS3wkJ",
@@ -26910,7 +26910,7 @@
             "containerId": null,
             "originalText": "Container",
             "lineHeight": 1.2,
-            "baseline": 13
+            "baseline": 14
           }
         ],
         "id": "HkHQ2qGFSGxd_4dTCfYBa",
@@ -27756,7 +27756,7 @@
             "containerId": null,
             "originalText": "Fargate",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "Em6o19BRr-9csn_Lq4m9V",
@@ -27803,7 +27803,7 @@
             "containerId": null,
             "originalText": "Support",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -28255,7 +28255,7 @@
             "containerId": null,
             "originalText": "Aurora",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -28870,7 +28870,7 @@
             "containerId": null,
             "originalText": "DocumentDB",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -30429,7 +30429,7 @@
             "containerId": null,
             "originalText": "DynamoDB",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "ZkPx5cARDMmv0Kxlv7Y1R",
@@ -30476,7 +30476,7 @@
             "containerId": null,
             "originalText": "Keyspaces",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -30943,7 +30943,7 @@
             "containerId": null,
             "originalText": "*",
             "lineHeight": 1.1882739970350638,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "J8WC_STIRvoqSOsSE_uNI",
@@ -30990,7 +30990,7 @@
             "containerId": null,
             "originalText": "DMS",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -31566,7 +31566,7 @@
             "containerId": null,
             "originalText": "Neptune",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -32431,7 +32431,7 @@
             "containerId": null,
             "originalText": "Quantum Ledger\nDatabase",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "rectangle",
@@ -33104,7 +33104,7 @@
             "containerId": null,
             "originalText": "RDS",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -34059,7 +34059,7 @@
             "containerId": null,
             "originalText": "Timestream",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -34761,7 +34761,7 @@
             "containerId": null,
             "originalText": "ElastiCache",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -35817,7 +35817,7 @@
             "containerId": null,
             "originalText": "MemoryDB\nfor Redis",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "rectangle",
@@ -36520,7 +36520,7 @@
             "containerId": null,
             "originalText": "Cloud9",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -37171,7 +37171,7 @@
             "containerId": null,
             "originalText": "CodeBuild",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "KVRSYJq_5ZTswKkQ3hdfD",
@@ -37252,7 +37252,7 @@
             "containerId": null,
             "originalText": "</>",
             "lineHeight": 1.1249130976280162,
-            "baseline": 13
+            "baseline": 14
           },
           {
             "type": "ellipse",
@@ -37763,7 +37763,7 @@
             "containerId": null,
             "originalText": "CodeCommit",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "jEuTeZ0uj-Tbg5fjt7ttD",
@@ -37844,7 +37844,7 @@
             "containerId": null,
             "originalText": "</>",
             "lineHeight": 1.1944756566625332,
-            "baseline": 14
+            "baseline": 15
           },
           {
             "type": "rectangle",
@@ -38474,7 +38474,7 @@
             "containerId": null,
             "originalText": "CodeDeploy",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "TXUd2OsiMQD1AyqwBkXKI",
@@ -38801,7 +38801,7 @@
             "containerId": null,
             "originalText": "CodePipeline",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "ExHn9-Y6ExJHPBJh39vuw",
@@ -38849,7 +38849,7 @@
             "containerId": null,
             "originalText": "X-Ray",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -39288,7 +39288,7 @@
             "containerId": null,
             "originalText": "CodeArtifact",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -39788,7 +39788,7 @@
             "containerId": null,
             "originalText": "Amplify",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "stlRq3oPYoFHmZ6kl1v-I",
@@ -39835,7 +39835,7 @@
             "containerId": null,
             "originalText": "Device Farm",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -40611,7 +40611,7 @@
             "containerId": null,
             "originalText": "Location\nService",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "rectangle",
@@ -40976,7 +40976,7 @@
             "containerId": null,
             "originalText": "IoT Analytics",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -41549,7 +41549,7 @@
             "containerId": null,
             "originalText": "IoT Core",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -42231,7 +42231,7 @@
             "containerId": null,
             "originalText": "IoT ExpressLink",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -43260,7 +43260,7 @@
             "containerId": null,
             "originalText": "IoT TwinMaker",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -43802,7 +43802,7 @@
             "containerId": null,
             "originalText": "IoT FleetWise",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -44303,7 +44303,7 @@
             "containerId": null,
             "originalText": "IoT Device \nDefender",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "rectangle",
@@ -44893,7 +44893,7 @@
             "containerId": null,
             "originalText": "IoT Device\nManagement",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "rectangle",
@@ -45581,7 +45581,7 @@
             "containerId": null,
             "originalText": "IoT Events",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -46304,7 +46304,7 @@
             "containerId": null,
             "originalText": "IoT RoboRunner",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -46884,7 +46884,7 @@
             "containerId": null,
             "originalText": "IoT Greengrass",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -47268,7 +47268,7 @@
             "containerId": null,
             "originalText": "IoT SiteWise",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -47796,7 +47796,7 @@
             "containerId": null,
             "originalText": "Comprehend",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -48631,7 +48631,7 @@
             "containerId": null,
             "originalText": "Elastic Inference",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -49724,7 +49724,7 @@
             "containerId": null,
             "originalText": "Forecast",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -50040,7 +50040,7 @@
             "containerId": null,
             "originalText": "Lex",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -50675,7 +50675,7 @@
             "containerId": null,
             "originalText": "Personalize",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -51195,7 +51195,7 @@
             "containerId": null,
             "originalText": "Polly",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -52250,7 +52250,7 @@
             "containerId": null,
             "originalText": "Rekognition",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -53550,7 +53550,7 @@
             "containerId": null,
             "originalText": "SageMaker",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "S2nfNq5kOm8DLYvpHvaf9",
@@ -54124,7 +54124,7 @@
             "containerId": null,
             "originalText": "Notebook",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "bT_gP77tt5YU-yfvCmaIe",
@@ -54896,7 +54896,7 @@
             "containerId": null,
             "originalText": "Canvas",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "4qeT8nRFJpkaxUJf49e-X",
@@ -55855,7 +55855,7 @@
             "containerId": null,
             "originalText": "Model",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "pgmhIjd9iutB7YZe2o9k4",
@@ -56318,7 +56318,7 @@
             "containerId": null,
             "originalText": "Train",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "zJtNIHI-XGe4LR6oh4h6C",
@@ -57194,7 +57194,7 @@
             "containerId": null,
             "originalText": "Ground Truth",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "Pef_WG7W5V730cLSvbM45",
@@ -57242,7 +57242,7 @@
             "containerId": null,
             "originalText": "Textract",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -58066,7 +58066,7 @@
             "containerId": null,
             "originalText": "T",
             "lineHeight": 1.112095209590377,
-            "baseline": 6
+            "baseline": 7
           }
         ],
         "id": "TtIucGhDLqJ-irhu52GSY",
@@ -58114,7 +58114,7 @@
             "containerId": null,
             "originalText": "Transcribe",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -59115,7 +59115,7 @@
             "containerId": null,
             "originalText": "Translate",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -59409,7 +59409,7 @@
             "containerId": null,
             "originalText": "A",
             "lineHeight": 1.1853746295984429,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "line",
@@ -60001,7 +60001,7 @@
             "containerId": null,
             "originalText": "Deep Learning\nAMIs",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "rectangle",
@@ -60983,7 +60983,7 @@
             "containerId": null,
             "originalText": "Deep Learning\nContainers",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "rectangle",
@@ -61686,7 +61686,7 @@
             "containerId": null,
             "originalText": "DeepLens",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -62518,7 +62518,7 @@
             "containerId": null,
             "originalText": "DeepComposer",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -63016,7 +63016,7 @@
             "containerId": null,
             "originalText": "Augmented IA",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -63762,7 +63762,7 @@
             "containerId": null,
             "originalText": "Fraud Detector",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -64670,7 +64670,7 @@
             "containerId": null,
             "originalText": "Kendra",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -65302,7 +65302,7 @@
             "containerId": null,
             "originalText": "DevOps Guru",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -65750,7 +65750,7 @@
             "containerId": null,
             "originalText": "Panorama",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -66266,7 +66266,7 @@
             "containerId": null,
             "originalText": "SageMaker\nStudio Lab",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "rectangle",
@@ -66982,7 +66982,7 @@
             "containerId": null,
             "originalText": "Comprehend\nMedical",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "rectangle",
@@ -67590,7 +67590,7 @@
             "containerId": null,
             "originalText": "CloudTrail",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -68469,7 +68469,7 @@
             "containerId": null,
             "originalText": "CloudWatch",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "DRDwN9W6UhEMhL5hxIRGk",
@@ -68729,7 +68729,7 @@
             "containerId": null,
             "originalText": "Alarm",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "WsFIS94Y8u0DIy16oPTuC",
@@ -69366,7 +69366,7 @@
             "containerId": null,
             "originalText": "Dashboard",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "c9dy6QVKv8ru0C6Jrj7gH",
@@ -69849,7 +69849,7 @@
             "containerId": null,
             "originalText": "Logs",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "hOFSJtfoyVpkSUlttoUzA",
@@ -70496,7 +70496,7 @@
             "containerId": null,
             "originalText": "System Manager",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "_7mDXDsANOjNtxEoVOvng",
@@ -70543,7 +70543,7 @@
             "containerId": null,
             "originalText": "Chatbot",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -71167,7 +71167,7 @@
             "containerId": null,
             "originalText": "Service Catalog",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -72075,7 +72075,7 @@
             "containerId": null,
             "originalText": "Application\nAuto Scaling",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "rectangle",
@@ -72780,7 +72780,7 @@
             "containerId": null,
             "originalText": "Config",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -73615,7 +73615,7 @@
             "containerId": null,
             "originalText": "Personal Health\nDashboard",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "rectangle",
@@ -73968,7 +73968,7 @@
             "containerId": null,
             "originalText": "CloudFormation",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -75138,7 +75138,7 @@
             "containerId": null,
             "originalText": "Well-Architected\nTool",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           }
         ],
         "id": "S09F7CQ_wDXBf5lJkvTaO",
@@ -75185,7 +75185,7 @@
             "containerId": null,
             "originalText": "Control Tower",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -76308,7 +76308,7 @@
             "containerId": null,
             "originalText": "Backint Agent",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -76977,7 +76977,7 @@
             "containerId": null,
             "originalText": "Distro for\nOpen Telemetry",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "rectangle",
@@ -77567,7 +77567,7 @@
             "containerId": null,
             "originalText": "Fault Injection\nSimulator",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "ellipse",
@@ -78351,7 +78351,7 @@
             "containerId": null,
             "originalText": "Managed Service\nfor Grafana",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "line",
@@ -78684,7 +78684,7 @@
             "containerId": null,
             "originalText": "Managed Service\nfor Prometheus",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "rectangle",
@@ -79137,7 +79137,7 @@
             "containerId": null,
             "originalText": "OpsWorks",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -79709,7 +79709,7 @@
             "containerId": null,
             "originalText": "System Manager\nIncident Manager",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "rectangle",
@@ -80332,7 +80332,7 @@
             "containerId": null,
             "originalText": "Resilience Hub",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -80722,7 +80722,7 @@
             "containerId": null,
             "originalText": "Organizations",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -81247,7 +81247,7 @@
             "containerId": null,
             "originalText": "AppConfig",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -81643,7 +81643,7 @@
             "containerId": null,
             "originalText": "Transfer Family",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -82119,7 +82119,7 @@
             "containerId": null,
             "originalText": "Application\nDiscovery Service",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "rectangle",
@@ -82567,7 +82567,7 @@
             "containerId": null,
             "originalText": "DataSync",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -83062,7 +83062,7 @@
             "containerId": null,
             "originalText": "Migration Hub",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -83848,7 +83848,7 @@
             "containerId": null,
             "originalText": "Server Migration\nService",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "rectangle",
@@ -84356,7 +84356,7 @@
             "containerId": null,
             "originalText": "Application \nMigration Service",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "rectangle",
@@ -84773,7 +84773,7 @@
             "containerId": null,
             "originalText": "Migration\nEvaluator",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "rectangle",
@@ -85580,7 +85580,7 @@
             "containerId": null,
             "originalText": "Transit Gateway",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "nnoQKwi46w8yy_IKAU189",
@@ -86251,7 +86251,7 @@
             "containerId": null,
             "originalText": "CloudFront",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "3dru4ej0u2wXAB1wTOvx0",
@@ -86298,7 +86298,7 @@
             "containerId": null,
             "originalText": "Route 53",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -86914,7 +86914,7 @@
             "containerId": null,
             "originalText": "VPC",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -87798,7 +87798,7 @@
             "containerId": null,
             "originalText": "Peering connection",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "SfdybkytAyUkcaPA3vnBA",
@@ -87845,7 +87845,7 @@
             "containerId": null,
             "originalText": "Internet gateway",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "ellipse",
@@ -88138,7 +88138,7 @@
             "containerId": null,
             "originalText": "NAT gateway",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "ellipse",
@@ -88755,7 +88755,7 @@
             "containerId": null,
             "originalText": "VPN gateway",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "2QgMXS9vqX86ISSAZtCws",
@@ -88802,7 +88802,7 @@
             "containerId": null,
             "originalText": "NACL",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "ellipse",
@@ -89500,7 +89500,7 @@
             "containerId": null,
             "originalText": "ELB",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "zKnulndsXYsX_i6zY_wsA",
@@ -89937,7 +89937,7 @@
             "containerId": null,
             "originalText": "ALB",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "i-z1AuczN55ftD84tohRC",
@@ -89984,7 +89984,7 @@
             "containerId": null,
             "originalText": "NLB",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "ellipse",
@@ -90386,7 +90386,7 @@
             "containerId": null,
             "originalText": "Direct Connect",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -90971,7 +90971,7 @@
             "containerId": null,
             "originalText": "PrivateLink",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -91347,7 +91347,7 @@
             "containerId": null,
             "originalText": "Client VPN",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -91850,7 +91850,7 @@
             "containerId": null,
             "originalText": "Site-to-Site \nVPN",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "rectangle",
@@ -93412,7 +93412,7 @@
             "containerId": null,
             "originalText": "Global\nAccelerator",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           }
         ],
         "id": "veo8l3bRo6tU760j3CTMs",
@@ -93459,7 +93459,7 @@
             "containerId": null,
             "originalText": "Network Firewall",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -94393,7 +94393,7 @@
             "containerId": null,
             "originalText": "Cognito",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "S_i9gpqOMpfrr49sJtCYp",
@@ -94440,7 +94440,7 @@
             "containerId": null,
             "originalText": "GuardDuty",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -95042,7 +95042,7 @@
             "containerId": null,
             "originalText": "Inspector",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -95510,7 +95510,7 @@
             "containerId": null,
             "originalText": "Macie",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -95662,7 +95662,7 @@
             "containerId": null,
             "originalText": "Artifact",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -96295,7 +96295,7 @@
             "containerId": null,
             "originalText": "Certificate \nManager",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "rectangle",
@@ -96746,7 +96746,7 @@
             "containerId": null,
             "originalText": "CloudHSM",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -97391,7 +97391,7 @@
             "containerId": null,
             "originalText": "Directory \nService",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "rectangle",
@@ -98013,7 +98013,7 @@
             "containerId": null,
             "originalText": "Firewall Manager",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -98722,7 +98722,7 @@
             "containerId": null,
             "originalText": "IAM",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -99335,7 +99335,7 @@
             "containerId": null,
             "originalText": "Single Sign-On",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -99808,7 +99808,7 @@
             "containerId": null,
             "originalText": "KMS",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -100414,7 +100414,7 @@
             "containerId": null,
             "originalText": "Secrets Manager",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -101411,7 +101411,7 @@
             "containerId": null,
             "originalText": "Security Hub",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -102211,7 +102211,7 @@
             "containerId": null,
             "originalText": "Shield",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -102729,7 +102729,7 @@
             "containerId": null,
             "originalText": "WAF",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -103670,7 +103670,7 @@
             "containerId": null,
             "originalText": "Detective",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -104274,7 +104274,7 @@
             "containerId": null,
             "originalText": "Resource Access\nManager",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "rectangle",
@@ -104835,7 +104835,7 @@
             "containerId": null,
             "originalText": "Audit Manager",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -105595,7 +105595,7 @@
             "containerId": null,
             "originalText": "EBS",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "line",
@@ -106161,7 +106161,7 @@
             "containerId": null,
             "originalText": "EFS",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -106867,7 +106867,7 @@
             "containerId": null,
             "originalText": "Storage \nGateway",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           },
           {
             "type": "rectangle",
@@ -107512,7 +107512,7 @@
             "containerId": null,
             "originalText": "S3 Bucket",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "epEJ8CTUhuISZof-LdEKb",
@@ -107559,7 +107559,7 @@
             "containerId": null,
             "originalText": "FSx",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -107683,7 +107683,7 @@
             "containerId": null,
             "originalText": "Backup",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -109253,7 +109253,7 @@
             "containerId": null,
             "originalText": "Auto Scaling group",
             "lineHeight": 1.2,
-            "baseline": 16
+            "baseline": 17
           }
         ],
         "id": "2R1XM0a75ZNPH66PIkZuD",
@@ -109946,7 +109946,7 @@
             "containerId": null,
             "originalText": "AWS Step Functions \nWorkflow",
             "lineHeight": 1.2,
-            "baseline": 40
+            "baseline": 41
           }
         ],
         "id": "SpGsUau-Ht9W0R6LUcefU",
@@ -115080,7 +115080,7 @@
             "containerId": null,
             "originalText": "0 .. 1",
             "lineHeight": 1.25,
-            "baseline": 13
+            "baseline": 14
           }
         ],
         "id": "p6cLBMdNVAQqL3gEqMBQN",
@@ -115126,7 +115126,7 @@
             "containerId": null,
             "originalText": "1 .. n",
             "lineHeight": 1.25,
-            "baseline": 13
+            "baseline": 14
           }
         ],
         "id": "YF7KQkyh773K1Y0DjXsUg",
@@ -115172,7 +115172,7 @@
             "containerId": null,
             "originalText": "n .. m",
             "lineHeight": 1.25,
-            "baseline": 13
+            "baseline": 14
           }
         ],
         "id": "F3co044vizFif-ajg7Sct",
