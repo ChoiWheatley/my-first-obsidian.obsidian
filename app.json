@@ -5,11 +5,13 @@
   "autoPairBrackets": true,
   "autoPairMarkdown": false,
   "useTab": true,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "vimMode": true,
   "attachmentFolderPath": "docs/assets",
   "trashOption": "none",
   "newFileLocation": "folder",
   "newFileFolderPath": "docs",
-  "spellcheck": false
+  "spellcheck": false,
+  "showLineNumber": false,
+  "propertiesInDocument": "visible"
 }
