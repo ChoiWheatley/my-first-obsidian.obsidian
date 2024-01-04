@@ -81,10 +81,10 @@
       "punctuation-to-remove": ".,;:!。，；：！"
     },
     "footnote-after-punctuation": {
-      "enabled": false
+      "enabled": true
     },
     "move-footnotes-to-the-bottom": {
-      "enabled": false
+      "enabled": true
     },
     "re-index-footnotes": {
       "enabled": false
@@ -101,7 +101,8 @@
       "style": "asterisk"
     },
     "no-bare-urls": {
-      "enabled": true
+      "enabled": true,
+      "no-bare-uris": true
     },
     "ordered-list-style": {
       "enabled": true,
@@ -233,11 +234,20 @@
       "enabled": false,
       "characters-to-remove-space-before": ",!?;:).’”]",
       "characters-to-remove-space-after": "¿¡‘“(["
+    },
+    "add-blank-line-after-yaml": {
+      "enabled": false
+    },
+    "default-language-for-code-fences": {
+      "enabled": false,
+      "default-language": ""
     }
   },
   "lintOnSave": true,
   "recordLintOnSaveLogs": false,
   "displayChanged": true,
+  "lintOnFileChange": false,
+  "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [
     "assets",
@@ -246,7 +256,7 @@
     ""
   ],
   "linterLocale": "system-default",
-  "logLevel": 4,
+  "logLevel": "ERROR",
   "lintCommands": [],
   "customRegexes": [],
   "commonStyles": {

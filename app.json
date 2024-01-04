@@ -13,5 +13,11 @@
   "newFileFolderPath": "docs",
   "spellcheck": false,
   "showLineNumber": false,
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 84
+  }
 }
