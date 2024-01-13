@@ -101,7 +101,7 @@
       "style": "asterisk"
     },
     "no-bare-urls": {
-      "enabled": false,
+      "enabled": true,
       "no-bare-uris": true
     },
     "ordered-list-style": {
