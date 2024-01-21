@@ -1,8 +1,6 @@
 [
   "recent-files-obsidian",
-  "obsidian-annotator",
   "convert-url-to-iframe",
-  "obsidian-copy-block-link",
   "dataview",
   "obsidian-excalidraw-plugin",
   "file-explorer-note-count",
@@ -13,13 +11,11 @@
   "obsidian-git",
   "darlal-switcher-plus",
   "settings-search",
-  "simple-embeds",
   "obsidian-style-settings",
   "cycle-through-panes",
   "tag-wrangler",
   "templater-obsidian",
   "waypoint",
   "oz-clear-unused-images",
-  "table-editor-obsidian",
   "obsidian-enhancing-export"
 ]
