@@ -5,10 +5,11 @@
   "translucency": false,
   "showViewHeader": true,
   "cssTheme": "Things",
-  "baseFontSize": 20,
+  "baseFontSize": 12,
   "theme": "moonstone",
   "interfaceFontFamily": "Segoe UI,SF Pro Display,나눔바른고딕",
   "enabledCssSnippets": [
     "obsidian"
-  ]
+  ],
+  "nativeMenus": false
 }
